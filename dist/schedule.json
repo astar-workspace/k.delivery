@@ -1,8 +1,8 @@
 [
     {
         "id": 5443,
-        "airingAt": 1787990400,
-        "next_episode": 930,
+        "airingAt": 1788595200,
+        "next_episode": 931,
         "data": {
             "id": "5443",
             "type": "anime",
@@ -11,7 +11,7 @@
             },
             "attributes": {
                 "createdAt": "2013-02-20T17:23:51.042Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "doraemon-2005",
                 "synopsis": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n(Source: Wikipedia)",
                 "description": "Doraemon (2005) is the most recent anime series based on Fujiko Fujio's manga of the same name. \nIt is the 2005 version of 1979 series, with certain changes in the animation and other things.\nDoraemon is a cat-like robot who appears in the present to steer Nobita/Noby, who is a dumb, naive and clumsy boy on the right path in order to secure his future. Nobita's love interest is Shizuka Minamoto/Sue, his frenemies are Takeshi Goda/Big G and Suneo/Sneech.\n(Source: Wikipedia)",
@@ -22,7 +22,7 @@
                 },
                 "canonicalTitle": "Doraemon (2005)",
                 "abbreviatedTitles": [],
-                "averageRating": "77.1",
+                "averageRating": "77.11",
                 "ratingFrequencies": {
                     "2": "12",
                     "3": "0",
@@ -38,19 +38,19 @@
                     "13": "5",
                     "14": "169",
                     "15": "6",
-                    "16": "122",
+                    "16": "123",
                     "17": "12",
                     "18": "66",
                     "19": "1",
                     "20": "168"
                 },
-                "userCount": 2040,
+                "userCount": 2041,
                 "favoritesCount": 22,
                 "startDate": "2005-04-15",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 4714,
-                "ratingRank": 1638,
+                "popularityRank": 4712,
+                "ratingRank": 1632,
                 "ageRating": "PG",
                 "ageRatingGuide": "Children",
                 "subtype": "TV",
@@ -193,8 +193,8 @@
     },
     {
         "id": 2182,
-        "airingAt": 1788082200,
-        "next_episode": 2847,
+        "airingAt": 1788687000,
+        "next_episode": 2848,
         "data": {
             "id": "2182",
             "type": "anime",
@@ -203,7 +203,7 @@
             },
             "attributes": {
                 "createdAt": "2013-02-20T16:34:21.538Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "sazae-san",
                 "synopsis": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n(Source: AniDB)",
                 "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kids and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults. \n(Source: AniDB)",
@@ -242,8 +242,8 @@
                 "startDate": "1969-10-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 7379,
-                "ratingRank": 7580,
+                "popularityRank": 7381,
+                "ratingRank": 7578,
                 "ageRating": "G",
                 "ageRatingGuide": "All Ages",
                 "subtype": "TV",
@@ -386,8 +386,8 @@
     },
     {
         "id": 48033,
-        "airingAt": 1787623200,
-        "next_episode": 410,
+        "airingAt": 1788228000,
+        "next_episode": 412,
         "data": {
             "id": "48033",
             "type": "anime",
@@ -396,7 +396,7 @@
             },
             "attributes": {
                 "createdAt": "2023-10-02T01:54:43.621Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "wushen-zhuzai-da-wei-pian",
                 "synopsis": "The second season of Wushen Zhuzai.",
                 "description": "The second season of Wushen Zhuzai.",
@@ -423,7 +423,7 @@
                 "startDate": "2022-10-16",
                 "endDate": "2023-11-12",
                 "nextRelease": null,
-                "popularityRank": 20330,
+                "popularityRank": 20271,
                 "ratingRank": null,
                 "ageRating": "PG",
                 "ageRatingGuide": null,
@@ -567,8 +567,8 @@
     },
     {
         "id": 48033,
-        "airingAt": 1788055200,
-        "next_episode": 411,
+        "airingAt": 1788660000,
+        "next_episode": 413,
         "data": {
             "id": "48033",
             "type": "anime",
@@ -577,7 +577,7 @@
             },
             "attributes": {
                 "createdAt": "2023-10-02T01:54:43.621Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "wushen-zhuzai-da-wei-pian",
                 "synopsis": "The second season of Wushen Zhuzai.",
                 "description": "The second season of Wushen Zhuzai.",
@@ -604,7 +604,7 @@
                 "startDate": "2022-10-16",
                 "endDate": "2023-11-12",
                 "nextRelease": null,
-                "popularityRank": 20330,
+                "popularityRank": 20271,
                 "ratingRank": null,
                 "ageRating": "PG",
                 "ageRatingGuide": null,
@@ -748,8 +748,8 @@
     },
     {
         "id": 856,
-        "airingAt": 1787988600,
-        "next_episode": 1350,
+        "airingAt": 1788593400,
+        "next_episode": 1351,
         "data": {
             "id": "856",
             "type": "anime",
@@ -758,7 +758,7 @@
             },
             "attributes": {
                 "createdAt": "2013-02-20T16:13:42.851Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "crayon-shin-chan",
                 "synopsis": "Just because an anime features a young protagonist does not necessarily mean that it is an appropriate series to show your children. Young Shinnosuke, or Shin-chan for short, is a very creative young boy that lives with his eccentric parents, Misae and Hiroshi, as well as his Prima Donna younger sister, Himawari, and has loads of unique friends to boot. \nEveryday life for little Shin-chan is full of funny (and shocking) moments, most of which stem from his unnatural and sometimes profane use of language, as well as his constant acts of inappropriate behavior. Shin-chan's famous \"elephant\" gag is one of the most defining moments in Crayon Shin-chan, simply because it is the epitome of crude comedy, one of the core themes of the series.Crayon Shin-chan is a hilarious show about the day in the life of a young, curious boy, that captures the awkwardness of growing up as well as the beauty of being true to one's self, no matter what others say.",
                 "description": "Just because an anime features a young protagonist does not necessarily mean that it is an appropriate series to show your children. Young Shinnosuke, or Shin-chan for short, is a very creative young boy that lives with his eccentric parents, Misae and Hiroshi, as well as his Prima Donna younger sister, Himawari, and has loads of unique friends to boot. \nEveryday life for little Shin-chan is full of funny (and shocking) moments, most of which stem from his unnatural and sometimes profane use of language, as well as his constant acts of inappropriate behavior. Shin-chan's famous \"elephant\" gag is one of the most defining moments in Crayon Shin-chan, simply because it is the epitome of crude comedy, one of the core themes of the series.Crayon Shin-chan is a hilarious show about the day in the life of a young, curious boy, that captures the awkwardness of growing up as well as the beauty of being true to one's self, no matter what others say.",
@@ -800,7 +800,7 @@
                 "endDate": null,
                 "nextRelease": "2026-09-04T19:30:00.000+09:00",
                 "popularityRank": 2279,
-                "ratingRank": 1308,
+                "ratingRank": 1306,
                 "ageRating": "G",
                 "ageRatingGuide": "All Ages",
                 "subtype": "TV",
@@ -942,226 +942,9 @@
         }
     },
     {
-        "id": 44451,
-        "airingAt": 1787842800,
-        "next_episode": 1,
-        "data": {
-            "id": "44451",
-            "type": "anime",
-            "links": {
-                "self": "https://kitsu.io/api/edge/anime/44451"
-            },
-            "attributes": {
-                "createdAt": "2021-04-25T11:57:22.084Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
-                "slug": "Puella-Magi-Madoka-Magica-the-Movie-Walpurgisnacht-Rising",
-                "synopsis": "The 10th anniversary online event for the Mahou Shoujo Madoka\u2606Magica anime revealed on Sunday that the franchise is getting a new anime film titled Mahou Shoujo Madoka\u2606Magica: Walpurgis no Kaiten. The film will be an official sequel to the Mahou Shoujo Madoka\u2606Magica: Hangyaku no Monogatari film that opened in October 2013. The tagline on the new film's visual reads, \"Now, let's continue the story.\"\n\n(Source: Anime News Network, edited)",
-                "description": "The 10th anniversary online event for the Mahou Shoujo Madoka\u2606Magica anime revealed on Sunday that the franchise is getting a new anime film titled Mahou Shoujo Madoka\u2606Magica: Walpurgis no Kaiten. The film will be an official sequel to the Mahou Shoujo Madoka\u2606Magica: Hangyaku no Monogatari film that opened in October 2013. The tagline on the new film's visual reads, \"Now, let's continue the story.\"\n\n(Source: Anime News Network, edited)",
-                "coverImageTopOffset": 0,
-                "titles": {
-                    "en": "Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising-",
-                    "en_jp": "Mahou Shoujo Madoka\u2606Magica: Walpurgis no Kaiten",
-                    "ja_jp": "\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab \u3008\u30ef\u30eb\u30d7\u30eb\u30ae\u30b9\u306e\u5efb\u5929\u3009"
-                },
-                "canonicalTitle": "Mahou Shoujo Madoka\u2606Magica: Walpurgis no Kaiten",
-                "abbreviatedTitles": [
-                    "Magical Girl Madoka Magica Movie 4",
-                    "Puella Magi Madoka Magica Movie 4"
-                ],
-                "averageRating": null,
-                "ratingFrequencies": {
-                    "2": "0",
-                    "3": "0",
-                    "4": "0",
-                    "5": "0",
-                    "6": "0",
-                    "7": "0",
-                    "8": "1",
-                    "9": "0",
-                    "10": "1",
-                    "11": "0",
-                    "12": "0",
-                    "13": "0",
-                    "14": "2",
-                    "15": "0",
-                    "16": "1",
-                    "17": "0",
-                    "18": "2",
-                    "19": "0",
-                    "20": "17"
-                },
-                "userCount": 2618,
-                "favoritesCount": 2,
-                "startDate": "2026-08-28",
-                "endDate": "2026-08-28",
-                "nextRelease": null,
-                "popularityRank": 4146,
-                "ratingRank": null,
-                "ageRating": "R",
-                "ageRatingGuide": null,
-                "subtype": "movie",
-                "status": "finished",
-                "tba": null,
-                "posterImage": {
-                    "tiny": "https://media.kitsu.app/anime/44451/poster_image/tiny-cbd7be6e12e52a972486b14483875e68.jpeg",
-                    "large": "https://media.kitsu.app/anime/44451/poster_image/large-f7d952b644c6edba8a5098e2ab976326.jpeg",
-                    "small": "https://media.kitsu.app/anime/44451/poster_image/small-5e2eea7a8f8e07f66e21efec136bc5eb.jpeg",
-                    "medium": "https://media.kitsu.app/anime/44451/poster_image/medium-0a5ba0f0674f1a141034d780da1f8806.jpeg",
-                    "original": "https://media.kitsu.app/anime/44451/poster_image/27a7cefe1a84b7cb628d598aafd2f23f.jpg",
-                    "meta": {
-                        "dimensions": {
-                            "tiny": {
-                                "width": 110,
-                                "height": 156
-                            },
-                            "large": {
-                                "width": 550,
-                                "height": 780
-                            },
-                            "small": {
-                                "width": 284,
-                                "height": 402
-                            },
-                            "medium": {
-                                "width": 390,
-                                "height": 554
-                            }
-                        }
-                    }
-                },
-                "coverImage": {
-                    "tiny": "https://media.kitsu.app/anime/44451/cover_image/tiny-8bfc7b514d4e99ae677c3b070df037f0.jpeg",
-                    "large": "https://media.kitsu.app/anime/44451/cover_image/large-13086cde42a559e54f2768e81c00bcb8.jpeg",
-                    "small": "https://media.kitsu.app/anime/44451/cover_image/small-53dddd45b55be516a4ab0c2db93e5120.jpeg",
-                    "original": "https://media.kitsu.app/anime/44451/cover_image/aae779d4529888331507ecc4e958046d.jpg",
-                    "meta": {
-                        "dimensions": {
-                            "tiny": {
-                                "width": 840,
-                                "height": 200
-                            },
-                            "large": {
-                                "width": 3360,
-                                "height": 800
-                            },
-                            "small": {
-                                "width": 1680,
-                                "height": 400
-                            }
-                        }
-                    }
-                },
-                "episodeCount": 1,
-                "episodeLength": 120,
-                "totalLength": 0,
-                "youtubeVideoId": "UmVTrrDVYV4",
-                "showType": "movie",
-                "nsfw": false
-            },
-            "relationships": {
-                "genres": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/genres",
-                        "related": "https://kitsu.io/api/edge/anime/44451/genres"
-                    }
-                },
-                "categories": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/categories",
-                        "related": "https://kitsu.io/api/edge/anime/44451/categories"
-                    }
-                },
-                "castings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/castings",
-                        "related": "https://kitsu.io/api/edge/anime/44451/castings"
-                    }
-                },
-                "installments": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/installments",
-                        "related": "https://kitsu.io/api/edge/anime/44451/installments"
-                    }
-                },
-                "mappings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/mappings",
-                        "related": "https://kitsu.io/api/edge/anime/44451/mappings"
-                    }
-                },
-                "reviews": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/reviews",
-                        "related": "https://kitsu.io/api/edge/anime/44451/reviews"
-                    }
-                },
-                "mediaRelationships": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/media-relationships",
-                        "related": "https://kitsu.io/api/edge/anime/44451/media-relationships"
-                    }
-                },
-                "characters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/characters",
-                        "related": "https://kitsu.io/api/edge/anime/44451/characters"
-                    }
-                },
-                "staff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/staff",
-                        "related": "https://kitsu.io/api/edge/anime/44451/staff"
-                    }
-                },
-                "productions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/productions",
-                        "related": "https://kitsu.io/api/edge/anime/44451/productions"
-                    }
-                },
-                "quotes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/quotes",
-                        "related": "https://kitsu.io/api/edge/anime/44451/quotes"
-                    }
-                },
-                "episodes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/episodes",
-                        "related": "https://kitsu.io/api/edge/anime/44451/episodes"
-                    }
-                },
-                "streamingLinks": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/streaming-links",
-                        "related": "https://kitsu.io/api/edge/anime/44451/streaming-links"
-                    }
-                },
-                "animeProductions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/anime-productions",
-                        "related": "https://kitsu.io/api/edge/anime/44451/anime-productions"
-                    }
-                },
-                "animeCharacters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/anime-characters",
-                        "related": "https://kitsu.io/api/edge/anime/44451/anime-characters"
-                    }
-                },
-                "animeStaff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/44451/relationships/anime-staff",
-                        "related": "https://kitsu.io/api/edge/anime/44451/anime-staff"
-                    }
-                }
-            }
-        }
-    },
-    {
         "id": 49746,
-        "airingAt": 1787749200,
-        "next_episode": 14,
+        "airingAt": 1788354000,
+        "next_episode": 15,
         "data": {
             "id": "49746",
             "type": "anime",
@@ -1170,7 +953,7 @@
             },
             "attributes": {
                 "createdAt": "2025-03-26T15:55:27.341Z",
-                "updatedAt": "2026-08-30T00:17:47.515Z",
+                "updatedAt": "2026-08-31T02:28:59.206Z",
                 "slug": "re-zero-kara-hajimeru-isekai-seikatsu-4",
                 "synopsis": "The fourth season of Re:Zero kara Hajimeru Isekai Seikatsu.\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.\n\n(Source: Crunchyroll News)\n\nNote: World Premiere of Episode 1 screened at Lucca Comics &amp; Games 2025 on November 1, 2025, before the Japanese television broadcast.",
                 "description": "The fourth season of Re:Zero kara Hajimeru Isekai Seikatsu.\n\nTo save his stricken allies, Subaru faces a deadly desert to find the Sage at Pleiades Watchtower.\n\n(Source: Crunchyroll News)\n\nNote: World Premiere of Episode 1 screened at Lucca Comics &amp; Games 2025 on November 1, 2025, before the Japanese television broadcast.",
@@ -1182,7 +965,7 @@
                 },
                 "canonicalTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
                 "abbreviatedTitles": [],
-                "averageRating": "86.85",
+                "averageRating": "86.93",
                 "ratingFrequencies": {
                     "2": "3",
                     "4": "1",
@@ -1193,21 +976,21 @@
                     "11": "2",
                     "12": "11",
                     "13": "4",
-                    "14": "37",
+                    "14": "38",
                     "15": "3",
                     "16": "44",
                     "17": "8",
-                    "18": "72",
+                    "18": "71",
                     "19": "14",
-                    "20": "194"
+                    "20": "196"
                 },
-                "userCount": 2655,
+                "userCount": 2662,
                 "favoritesCount": 28,
                 "startDate": "2026-04-08",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 4118,
-                "ratingRank": 9,
+                "popularityRank": 4116,
+                "ratingRank": 8,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
                 "subtype": "TV",
@@ -1371,8 +1154,8 @@
     },
     {
         "id": 49449,
-        "airingAt": 1788019200,
-        "next_episode": 9,
+        "airingAt": 1788624000,
+        "next_episode": 10,
         "data": {
             "id": "49449",
             "type": "anime",
@@ -1381,7 +1164,7 @@
             },
             "attributes": {
                 "createdAt": "2024-12-31T03:11:33.921Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
                 "synopsis": "Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n\nHumans and these \u201cinvasive species\u201d continue to vie for living space, and while humanity\u2019s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
                 "description": "Thirty years ago, the world was nearly destroyed by the sudden appearance of unknown \"invasive alien species.\"\n\nHumans and these \u201cinvasive species\u201d continue to vie for living space, and while humanity\u2019s safety is currently barely secured, the world could be destroyed at any moment. Living in fear of death and destruction, people go about their daily lives as if trying to avert their eyes from danger and disaster.\n\nIn this world, the United Nations Hazardous Species Investigation Agency, \"EXCEEDS,\" has begun operations to ward off crises and disasters caused by invasive species.\n\nThe story begins on the island nation of \"Mizuho\" in the Far East. Shina Hisase is a young invasive species extermination hunter living on a remote island. What incident will befall Shina, who wishes only to live quietly with her younger sister Setsuna, her sole remaining family member?\n\nNote: The first episode aired with a runtime of ~48 minutes as opposed to the standard 24 minute long episode.",
@@ -1407,7 +1190,7 @@
                 "startDate": "2026-07-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 12588,
+                "popularityRank": 12578,
                 "ratingRank": null,
                 "ageRating": null,
                 "ageRatingGuide": null,
@@ -1551,8 +1334,8 @@
     },
     {
         "id": 49842,
-        "airingAt": 1788044400,
-        "next_episode": 74,
+        "airingAt": 1788649200,
+        "next_episode": 75,
         "data": {
             "id": "49842",
             "type": "anime",
@@ -1561,7 +1344,7 @@
             },
             "attributes": {
                 "createdAt": "2025-04-11T10:15:09.909Z",
-                "updatedAt": "2026-08-30T00:24:42.291Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "koupen-chan",
                 "synopsis": "Follows the everyday adventures of Koupen-chan and their friends as they enjoy the little things in life.\n\n(Source: Crunchyroll)",
                 "description": "Follows the everyday adventures of Koupen-chan and their friends as they enjoy the little things in life.\n\n(Source: Crunchyroll)",
@@ -1586,7 +1369,7 @@
                 "startDate": "2025-04-06",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 13722,
+                "popularityRank": 13721,
                 "ratingRank": null,
                 "ageRating": "G",
                 "ageRatingGuide": "All Ages",
@@ -1730,8 +1513,8 @@
     },
     {
         "id": 41923,
-        "airingAt": 1788098400,
-        "next_episode": 9,
+        "airingAt": 1788703200,
+        "next_episode": 10,
         "data": {
             "id": "41923",
             "type": "anime",
@@ -1740,7 +1523,7 @@
             },
             "attributes": {
                 "createdAt": "2018-08-14T01:04:02.066Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "nijusseiki-denki-mokuroku",
                 "synopsis": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
                 "description": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.\n\n(Source: Netflix)",
@@ -1758,7 +1541,7 @@
                     "Nijuuseiki Denki Mokuroku: Eureka Evrika",
                     "\u4e8c\u5341\u4e16\u7d00\u96fb\u6c23\u76ee\u9332"
                 ],
-                "averageRating": "75.91",
+                "averageRating": "75.76",
                 "ratingFrequencies": {
                     "2": "2",
                     "3": "0",
@@ -1769,7 +1552,7 @@
                     "8": "3",
                     "9": "0",
                     "10": "7",
-                    "11": "1",
+                    "11": "2",
                     "12": "2",
                     "13": "3",
                     "14": "17",
@@ -1780,13 +1563,13 @@
                     "19": "0",
                     "20": "16"
                 },
-                "userCount": 2131,
+                "userCount": 2135,
                 "favoritesCount": 3,
                 "startDate": "2026-07-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 4617,
-                "ratingRank": 2092,
+                "popularityRank": 4612,
+                "ratingRank": 2166,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
                 "subtype": "TV",
@@ -1950,8 +1733,8 @@
     },
     {
         "id": 45405,
-        "airingAt": 1787611200,
-        "next_episode": 372,
+        "airingAt": 1788216000,
+        "next_episode": 374,
         "data": {
             "id": "45405",
             "type": "anime",
@@ -1960,7 +1743,7 @@
             },
             "attributes": {
                 "createdAt": "2021-11-02T11:49:24.809Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "chiikawa",
                 "synopsis": "The sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.\n\n(Source: Anime News Network)",
                 "description": "The sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.\n\n(Source: Anime News Network)",
@@ -1998,8 +1781,8 @@
                 "startDate": "2022-04-04",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 10558,
-                "ratingRank": 3424,
+                "popularityRank": 10560,
+                "ratingRank": 3421,
                 "ageRating": "G",
                 "ageRatingGuide": "All Ages",
                 "subtype": "TV",
@@ -2142,8 +1925,8 @@
     },
     {
         "id": 45405,
-        "airingAt": 1787870400,
-        "next_episode": 373,
+        "airingAt": 1788475200,
+        "next_episode": 375,
         "data": {
             "id": "45405",
             "type": "anime",
@@ -2152,7 +1935,7 @@
             },
             "attributes": {
                 "createdAt": "2021-11-02T11:49:24.809Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "chiikawa",
                 "synopsis": "The sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.\n\n(Source: Anime News Network)",
                 "description": "The sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.\n\n(Source: Anime News Network)",
@@ -2190,8 +1973,8 @@
                 "startDate": "2022-04-04",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 10558,
-                "ratingRank": 3424,
+                "popularityRank": 10560,
+                "ratingRank": 3421,
                 "ageRating": "G",
                 "ageRatingGuide": "All Ages",
                 "subtype": "TV",
@@ -2334,8 +2117,8 @@
     },
     {
         "id": 47929,
-        "airingAt": 1788105600,
-        "next_episode": 9,
+        "airingAt": 1788710400,
+        "next_episode": 10,
         "data": {
             "id": "47929",
             "type": "anime",
@@ -2344,7 +2127,7 @@
             },
             "attributes": {
                 "createdAt": "2023-09-11T17:58:43.400Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "azur-lane-bisoku-zenshin-2nd-season",
                 "synopsis": "The second season of Azur Lane Bisoku Zenshin!",
                 "description": "The second season of Azur Lane Bisoku Zenshin!",
@@ -2362,12 +2145,12 @@
                     "12": "4",
                     "20": "2"
                 },
-                "userCount": 159,
+                "userCount": 160,
                 "favoritesCount": 2,
                 "startDate": "2026-07-06",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 13046,
+                "popularityRank": 13015,
                 "ratingRank": null,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or Older",
@@ -2511,8 +2294,8 @@
     },
     {
         "id": 48036,
-        "airingAt": 1787536800,
-        "next_episode": 155,
+        "airingAt": 1788141600,
+        "next_episode": 156,
         "data": {
             "id": "48036",
             "type": "anime",
@@ -2521,7 +2304,7 @@
             },
             "attributes": {
                 "createdAt": "2023-10-02T17:30:29.535Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "xian-ni",
                 "synopsis": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
                 "description": "Wang Lin is a very smart boy with loving parents. Although he and his parents are shunned by the rest of their relatives, his parents have always held high hopes that he will one day achieve greatness. One day, Wang Lin suddenly gained the chance to walk the path of an immortal but found that he only had mediocre talent at best. Watch Wang Lin as he breaks through his lack of talent and walks the path towards becoming a real immortal!\n\n(Source: Xian Ni Wiki)",
@@ -2555,8 +2338,8 @@
                 "startDate": "2023-09-25",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 10909,
-                "ratingRank": 1016,
+                "popularityRank": 10906,
+                "ratingRank": 1018,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
                 "subtype": "ONA",
@@ -2699,8 +2482,8 @@
     },
     {
         "id": 49689,
-        "airingAt": 1788101160,
-        "next_episode": 8,
+        "airingAt": 1788705960,
+        "next_episode": 9,
         "data": {
             "id": "49689",
             "type": "anime",
@@ -2709,7 +2492,7 @@
             },
             "attributes": {
                 "createdAt": "2025-03-19T02:06:17.048Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T04:57:53.818Z",
                 "slug": "futsutsuka-na-akujo-de-wa-gozaimasu-ga-hinamiya-chou-nezumi-torikae-den",
                 "synopsis": "As maidens from the Five Clans battle for the Crown Prince\u2019s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu\u2019s crimes in a dangerous trial.\n\nThe unlikely pair become increasingly entangled in each other\u2019s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.\n\n(Source: Crunchyroll)",
                 "description": "As maidens from the Five Clans battle for the Crown Prince\u2019s heart, jealous Keigetsu uses forbidden magic to swap bodies with the beloved Reirin. Switching places does not guarantee happiness for Keigetsu with her new body's ill health leaving her hanging on the verge of death. Meanwhile, Reirin, now wearing the face of a scorned outcast, must answer for Keigetsu\u2019s crimes in a dangerous trial.\n\nThe unlikely pair become increasingly entangled in each other\u2019s lives and they will need to work together to survive after discovering the dark conspiracies brewing beneath the palace's genial surface. To confront the deadly threats lurking in the shadows, Reirin must embrace her new identity and defy their expectations of the court's inept villainess.\n\n(Source: Crunchyroll)",
@@ -2721,7 +2504,7 @@
                 },
                 "canonicalTitle": "Futsutsuka na Akujo de wa Gozaimasu ga Hinamiya Chou Nezumi Torikae Den",
                 "abbreviatedTitles": [],
-                "averageRating": "79.38",
+                "averageRating": "79.56",
                 "ratingFrequencies": {
                     "2": "1",
                     "8": "2",
@@ -2734,15 +2517,15 @@
                     "17": "5",
                     "18": "6",
                     "19": "2",
-                    "20": "17"
+                    "20": "18"
                 },
-                "userCount": 630,
+                "userCount": 639,
                 "favoritesCount": 5,
                 "startDate": "2026-07-12",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 8063,
-                "ratingRank": 977,
+                "popularityRank": 8011,
+                "ratingRank": 940,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -2885,8 +2668,8 @@
     },
     {
         "id": 49851,
-        "airingAt": 1788013800,
-        "next_episode": 10,
+        "airingAt": 1788618600,
+        "next_episode": 11,
         "data": {
             "id": "49851",
             "type": "anime",
@@ -2895,7 +2678,7 @@
             },
             "attributes": {
                 "createdAt": "2025-04-14T14:27:25.012Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T04:11:27.460Z",
                 "slug": "tenmaku-no-jaadugar",
                 "synopsis": "After losing her mother and her homeland, Sitara\u2019s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan\u2019s Mongol Empire conquers nation after nation, nearing Sitara\u2019s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.\n\n(Source: Crunchyroll)",
                 "description": "After losing her mother and her homeland, Sitara\u2019s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan\u2019s Mongol Empire conquers nation after nation, nearing Sitara\u2019s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.\n\n(Source: Crunchyroll)",
@@ -2909,28 +2692,28 @@
                 "abbreviatedTitles": [
                     "A Witch's Life in Mongol"
                 ],
-                "averageRating": "81.3",
+                "averageRating": "81.21",
                 "ratingFrequencies": {
                     "2": "1",
                     "6": "0",
                     "9": "1",
                     "12": "1",
                     "13": "2",
-                    "14": "8",
+                    "14": "10",
                     "15": "3",
                     "16": "16",
                     "17": "4",
                     "18": "8",
                     "19": "1",
-                    "20": "23"
+                    "20": "22"
                 },
-                "userCount": 792,
-                "favoritesCount": 6,
+                "userCount": 795,
+                "favoritesCount": 7,
                 "startDate": "2026-07-04",
                 "endDate": "2026-09-12",
                 "nextRelease": null,
-                "popularityRank": 7316,
-                "ratingRank": 542,
+                "popularityRank": 7308,
+                "ratingRank": 568,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
                 "subtype": "TV",
@@ -3094,8 +2877,8 @@
     },
     {
         "id": 49410,
-        "airingAt": 1787576400,
-        "next_episode": 8,
+        "airingAt": 1788181200,
+        "next_episode": 9,
         "data": {
             "id": "49410",
             "type": "anime",
@@ -3104,7 +2887,7 @@
             },
             "attributes": {
                 "createdAt": "2024-12-15T20:06:49.689Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2nd-season",
                 "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
                 "description": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
@@ -3134,13 +2917,13 @@
                     "18": "5",
                     "20": "6"
                 },
-                "userCount": 1054,
+                "userCount": 1058,
                 "favoritesCount": 1,
                 "startDate": "2026-07-04",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6361,
-                "ratingRank": 4827,
+                "popularityRank": 6352,
+                "ratingRank": 4833,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -3283,8 +3066,8 @@
     },
     {
         "id": 46925,
-        "airingAt": 1787754600,
-        "next_episode": 8,
+        "airingAt": 1788359400,
+        "next_episode": 9,
         "data": {
             "id": "46925",
             "type": "anime",
@@ -3293,7 +3076,7 @@
             },
             "attributes": {
                 "createdAt": "2022-12-31T08:39:37.632Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T02:47:54.523Z",
                 "slug": "otomege-sekai-wa-mob-ni-kibishii-sekai-desu-2nd-season",
                 "synopsis": "The second season of Otomege Sekai wa Mob ni Kibishii Sekai desu.",
                 "description": "The second season of Otomege Sekai wa Mob ni Kibishii Sekai desu.",
@@ -3309,7 +3092,7 @@
                     "mobseka 2",
                     "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2"
                 ],
-                "averageRating": "71.83",
+                "averageRating": "71.89",
                 "ratingFrequencies": {
                     "2": "4",
                     "3": "0",
@@ -3325,19 +3108,19 @@
                     "13": "1",
                     "14": "25",
                     "15": "3",
-                    "16": "8",
-                    "17": "1",
+                    "16": "9",
+                    "17": "2",
                     "18": "4",
                     "19": "0",
                     "20": "8"
                 },
-                "userCount": 1762,
+                "userCount": 1766,
                 "favoritesCount": 6,
                 "startDate": "2026-07-08",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 5061,
-                "ratingRank": 4302,
+                "popularityRank": 5058,
+                "ratingRank": 4268,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or Older",
                 "subtype": "TV",
@@ -3480,8 +3263,8 @@
     },
     {
         "id": 48880,
-        "airingAt": 1788103800,
-        "next_episode": 9,
+        "airingAt": 1788708600,
+        "next_episode": 10,
         "data": {
             "id": "48880",
             "type": "anime",
@@ -3490,7 +3273,7 @@
             },
             "attributes": {
                 "createdAt": "2024-05-19T02:44:24.411Z",
-                "updatedAt": "2026-08-30T03:05:12.726Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "sayonara-lara",
                 "synopsis": "Long, long ago, there lived a mermaid princess named Lara. She was raised with love by her father, the king of the sea, and her sisters.\n\nOne day, Lara fell in love with a human prince who lived on land. It was a forbidden love\u2014one that was not allowed in the world of mermaids. Still, Lara journeyed to the surface. With a potion given to her by the witch Grace, she became human.\n\nBut the potion came at a cost\u2014fail to find true love, and she would turn into foam and vanish into the ocean. Though she was a princess of the sea, Lara chose love. Yet, her wish went unfulfilled, and she vanished into the sea.\n\nTwo hundred years later, Lara awakens once more, in Lake Biwa to finally search for her true love.\n\nAll because of \"love\".\n\n(Source: Crunchyroll News, edited)",
                 "description": "Long, long ago, there lived a mermaid princess named Lara. She was raised with love by her father, the king of the sea, and her sisters.\n\nOne day, Lara fell in love with a human prince who lived on land. It was a forbidden love\u2014one that was not allowed in the world of mermaids. Still, Lara journeyed to the surface. With a potion given to her by the witch Grace, she became human.\n\nBut the potion came at a cost\u2014fail to find true love, and she would turn into foam and vanish into the ocean. Though she was a princess of the sea, Lara chose love. Yet, her wish went unfulfilled, and she vanished into the sea.\n\nTwo hundred years later, Lara awakens once more, in Lake Biwa to finally search for her true love.\n\nAll because of \"love\".\n\n(Source: Crunchyroll News, edited)",
@@ -3505,7 +3288,7 @@
                     "\u3055\u3088\u30e9\u30e9",
                     "SayoLara"
                 ],
-                "averageRating": "77.46",
+                "averageRating": "77.39",
                 "ratingFrequencies": {
                     "2": "0",
                     "5": "1",
@@ -3522,13 +3305,13 @@
                     "19": "1",
                     "20": "9"
                 },
-                "userCount": 737,
+                "userCount": 739,
                 "favoritesCount": 4,
                 "startDate": "2026-07-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 7533,
-                "ratingRank": 1501,
+                "popularityRank": 7521,
+                "ratingRank": 1521,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -3692,8 +3475,8 @@
     },
     {
         "id": 42337,
-        "airingAt": 1787841000,
-        "next_episode": 8,
+        "airingAt": 1788445800,
+        "next_episode": 9,
         "data": {
             "id": "42337",
             "type": "anime",
@@ -3702,7 +3485,7 @@
             },
             "attributes": {
                 "createdAt": "2019-05-07T06:41:11.993Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "mobius-dust",
                 "synopsis": "On February 29, 2000, the M\u00f6bius meteorites fell on Earth. These meteorites brought a new form of matter known as M\u00f6bius Dust to Earth. The dust permeated Earth's atmosphere, leading to a miracle. The day the meteorites fell, nicknamed \"2.29,\" accelerated the economic disparity in Japan.\n\nBefore long, the Bloody War Alliance, discontent with this disparity, began committing acts of terrorism. Amidst all this, the police established the anti-RC special mobile unit and a joint anti-RC training school for the initial training of the unit members.\n\n(Source: ANN)",
                 "description": "On February 29, 2000, the M\u00f6bius meteorites fell on Earth. These meteorites brought a new form of matter known as M\u00f6bius Dust to Earth. The dust permeated Earth's atmosphere, leading to a miracle. The day the meteorites fell, nicknamed \"2.29,\" accelerated the economic disparity in Japan.\n\nBefore long, the Bloody War Alliance, discontent with this disparity, began committing acts of terrorism. Amidst all this, the police established the anti-RC special mobile unit and a joint anti-RC training school for the initial training of the unit members.\n\n(Source: ANN)",
@@ -3744,7 +3527,7 @@
                 "startDate": "2026-07-09",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 7592,
+                "popularityRank": 7593,
                 "ratingRank": null,
                 "ageRating": "G",
                 "ageRatingGuide": null,
@@ -3888,8 +3671,8 @@
     },
     {
         "id": 49656,
-        "airingAt": 1788008400,
-        "next_episode": 9,
+        "airingAt": 1788613200,
+        "next_episode": 10,
         "data": {
             "id": "49656",
             "type": "anime",
@@ -3898,7 +3681,7 @@
             },
             "attributes": {
                 "createdAt": "2025-03-09T03:42:20.259Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "black-torch",
                 "synopsis": "Although he may appear rough-and-tumble, Jiro Azuma\u2019s compassionate side emerges when it comes to the furry critters he can communicate with. But Jiro's soft spot for animals gets him in major trouble when a suspicious stray cat fuses with him, granting him exceptional power but also dragging him into humanity's hidden battle against powerful Japanese spirits, mononoke.\n\n(Source: VIZ Media)",
                 "description": "Although he may appear rough-and-tumble, Jiro Azuma\u2019s compassionate side emerges when it comes to the furry critters he can communicate with. But Jiro's soft spot for animals gets him in major trouble when a suspicious stray cat fuses with him, granting him exceptional power but also dragging him into humanity's hidden battle against powerful Japanese spirits, mononoke.\n\n(Source: VIZ Media)",
@@ -3925,13 +3708,13 @@
                     "18": "3",
                     "20": "10"
                 },
-                "userCount": 986,
+                "userCount": 993,
                 "favoritesCount": 5,
                 "startDate": "2026-07-04",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6546,
-                "ratingRank": 3277,
+                "popularityRank": 6528,
+                "ratingRank": 3276,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -4074,8 +3857,8 @@
     },
     {
         "id": 47604,
-        "airingAt": 1787968800,
-        "next_episode": 168,
+        "airingAt": 1788573600,
+        "next_episode": 169,
         "data": {
             "id": "47604",
             "type": "anime",
@@ -4084,7 +3867,7 @@
             },
             "attributes": {
                 "createdAt": "2023-06-12T03:30:52.392Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "douluo-dalu-2-jueshi-tangmen",
                 "synopsis": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?\n\n(Source: WeTV)",
                 "description": "The Tang Sect in a turbulent world. There is nothing but martial spirit here. Ten thousand years after the founding of the Tang Sect, it is in relative decline. An extremely talented man was born. Can the new Shrek Seven Monsters revive the Tang Sect and bring it back to glory? A soul beast of over one million years old; Electrolux who can pick stars; The new soul utensil system that led to the decline of the Tang Sect... A lot of secrets are to be revealed. Can the secret weapons of the Tang Sect be sharp again? Can the Tang Sect regain its former glory?\n\n(Source: WeTV)",
@@ -4264,8 +4047,8 @@
     },
     {
         "id": 44778,
-        "airingAt": 1787747400,
-        "next_episode": 8,
+        "airingAt": 1788352200,
+        "next_episode": 9,
         "data": {
             "id": "44778",
             "type": "anime",
@@ -4274,7 +4057,7 @@
             },
             "attributes": {
                 "createdAt": "2021-06-19T16:13:47.512Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "youjo-senki-ii",
                 "synopsis": "The second season of Youjo Senki.",
                 "description": "The second season of Youjo Senki.",
@@ -4290,7 +4073,7 @@
                     "Saga of Tanya the Evil II",
                     "Youjo Senki 2"
                 ],
-                "averageRating": "80.39",
+                "averageRating": "80.49",
                 "ratingFrequencies": {
                     "2": "1",
                     "3": "0",
@@ -4310,15 +4093,15 @@
                     "17": "4",
                     "18": "16",
                     "19": "5",
-                    "20": "43"
+                    "20": "44"
                 },
-                "userCount": 4560,
-                "favoritesCount": 14,
+                "userCount": 4564,
+                "favoritesCount": 13,
                 "startDate": "2026-07-08",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 2931,
-                "ratingRank": 748,
+                "popularityRank": 2927,
+                "ratingRank": 727,
                 "ageRating": "R",
                 "ageRatingGuide": "17+ (violence & profanity)",
                 "subtype": "TV",
@@ -4460,9 +4243,186 @@
         }
     },
     {
+        "id": 49961,
+        "airingAt": 1788145200,
+        "next_episode": 17,
+        "data": {
+            "id": "49961",
+            "type": "anime",
+            "links": {
+                "self": "https://kitsu.io/api/edge/anime/49961"
+            },
+            "attributes": {
+                "createdAt": "2025-06-01T02:24:03.283Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
+                "slug": "gekkan-nanmono-anime",
+                "synopsis": "A new short anime series based on the characters \"Nandemo Ikimono\" created by illustrator and character designer Yuri Yokomizo. The stories follow the lives of any and all things, from animals and plants to food and objects.\n\nThe shorts will stream on various social media services such as X (formerly Twitter), Instagram, YouTube, and TikTok, as well as on ABEMA..\n\n(Source: Anime News Network, edited)",
+                "description": "A new short anime series based on the characters \"Nandemo Ikimono\" created by illustrator and character designer Yuri Yokomizo. The stories follow the lives of any and all things, from animals and plants to food and objects.\n\nThe shorts will stream on various social media services such as X (formerly Twitter), Instagram, YouTube, and TikTok, as well as on ABEMA..\n\n(Source: Anime News Network, edited)",
+                "coverImageTopOffset": 0,
+                "titles": {
+                    "en_jp": "Gekkan! Nanmono Anime",
+                    "ja_jp": "\u3052\u3063\u304b\u3093\uff01\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1"
+                },
+                "canonicalTitle": "Gekkan! Nanmono Anime",
+                "abbreviatedTitles": [
+                    "\u306a\u3093\u3067\u3082\u3044\u304d\u3082\u306e\u3000\u3052\u3063\u304b\u3093\uff01\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1",
+                    "Nandemo Ikimono: Gekkan! Nanmono Anime",
+                    "Nanmono Anime",
+                    "\u306a\u3093\u3082\u306e\u30a2\u30cb\u30e1"
+                ],
+                "averageRating": null,
+                "ratingFrequencies": {},
+                "userCount": 18,
+                "favoritesCount": 0,
+                "startDate": "2025-04-30",
+                "endDate": null,
+                "nextRelease": null,
+                "popularityRank": 21743,
+                "ratingRank": null,
+                "ageRating": null,
+                "ageRatingGuide": null,
+                "subtype": "ONA",
+                "status": "current",
+                "tba": null,
+                "posterImage": {
+                    "tiny": "https://media.kitsu.app/anime/49961/poster_image/tiny-c34457564bfaedddf3d473fb7909fca2.jpeg",
+                    "large": "https://media.kitsu.app/anime/49961/poster_image/large-3f376bc5492dd5de03c4d13295604f95.jpeg",
+                    "small": "https://media.kitsu.app/anime/49961/poster_image/small-58d1c12c3cd6a240a113ce38de4620b8.jpeg",
+                    "medium": "https://media.kitsu.app/anime/49961/poster_image/medium-656faee904e95274d423288b3490aef8.jpeg",
+                    "original": "https://media.kitsu.app/anime/49961/poster_image/b8a7c167c561ed06860401d8917bb1bd.png",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 110,
+                                "height": 156
+                            },
+                            "large": {
+                                "width": 550,
+                                "height": 780
+                            },
+                            "small": {
+                                "width": 284,
+                                "height": 402
+                            },
+                            "medium": {
+                                "width": 390,
+                                "height": 554
+                            }
+                        }
+                    }
+                },
+                "coverImage": null,
+                "episodeCount": null,
+                "episodeLength": 1,
+                "totalLength": 100,
+                "youtubeVideoId": null,
+                "showType": "ONA",
+                "nsfw": false
+            },
+            "relationships": {
+                "genres": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/genres",
+                        "related": "https://kitsu.io/api/edge/anime/49961/genres"
+                    }
+                },
+                "categories": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/categories",
+                        "related": "https://kitsu.io/api/edge/anime/49961/categories"
+                    }
+                },
+                "castings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/castings",
+                        "related": "https://kitsu.io/api/edge/anime/49961/castings"
+                    }
+                },
+                "installments": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/installments",
+                        "related": "https://kitsu.io/api/edge/anime/49961/installments"
+                    }
+                },
+                "mappings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/mappings",
+                        "related": "https://kitsu.io/api/edge/anime/49961/mappings"
+                    }
+                },
+                "reviews": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/reviews",
+                        "related": "https://kitsu.io/api/edge/anime/49961/reviews"
+                    }
+                },
+                "mediaRelationships": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/media-relationships",
+                        "related": "https://kitsu.io/api/edge/anime/49961/media-relationships"
+                    }
+                },
+                "characters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/characters",
+                        "related": "https://kitsu.io/api/edge/anime/49961/characters"
+                    }
+                },
+                "staff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/staff",
+                        "related": "https://kitsu.io/api/edge/anime/49961/staff"
+                    }
+                },
+                "productions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/productions",
+                        "related": "https://kitsu.io/api/edge/anime/49961/productions"
+                    }
+                },
+                "quotes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/quotes",
+                        "related": "https://kitsu.io/api/edge/anime/49961/quotes"
+                    }
+                },
+                "episodes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/episodes",
+                        "related": "https://kitsu.io/api/edge/anime/49961/episodes"
+                    }
+                },
+                "streamingLinks": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/streaming-links",
+                        "related": "https://kitsu.io/api/edge/anime/49961/streaming-links"
+                    }
+                },
+                "animeProductions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/anime-productions",
+                        "related": "https://kitsu.io/api/edge/anime/49961/anime-productions"
+                    }
+                },
+                "animeCharacters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/anime-characters",
+                        "related": "https://kitsu.io/api/edge/anime/49961/anime-characters"
+                    }
+                },
+                "animeStaff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49961/relationships/anime-staff",
+                        "related": "https://kitsu.io/api/edge/anime/49961/anime-staff"
+                    }
+                }
+            }
+        }
+    },
+    {
         "id": 49913,
-        "airingAt": 1787751000,
-        "next_episode": 10,
+        "airingAt": 1788355800,
+        "next_episode": 11,
         "data": {
             "id": "49913",
             "type": "anime",
@@ -4471,7 +4431,7 @@
             },
             "attributes": {
                 "createdAt": "2025-05-13T02:55:18.576Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "heroine-seijo-iie-all-works-maid-desu-ko",
                 "synopsis": "\u201cI will become the world\u2019s most wonderful maid!\u201d\n\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count\u2019s family in the kingdom of Th\u00e9olas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY\u2014leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)",
                 "description": "\u201cI will become the world\u2019s most wonderful maid!\u201d\n\nWith her skirt fluttering in black and white, the girl shouted. Her name is Melody. A reincarnated former Japanese girl, she now pursues her dream in her new life, working as an all-purpose maid for a poor count\u2019s family in the kingdom of Th\u00e9olas. When she makes it, even cheap tea turns into a luxury brew, and a dilapidated mansion is quickly restored to new! Cleaning, serving, hunting, DIY\u2014leave it all to her and her powerful magic. Unbeknownst to Melody, this world is actually an otome game, and she is the most powerful and invincible heroine, the saint! Yet, she remains oblivious to this fact. Romance with handsome men? Attacks by the Demon Lord? Work comes first! A fantasy of misunderstood work that unknowingly shatters destiny!\n\n(Source: Seven Seas Entertainment)",
@@ -4500,13 +4460,13 @@
                     "18": "2",
                     "20": "12"
                 },
-                "userCount": 402,
+                "userCount": 405,
                 "favoritesCount": 2,
                 "startDate": "2026-06-24",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 9687,
-                "ratingRank": 2183,
+                "popularityRank": 9656,
+                "ratingRank": 2182,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "ONA",
@@ -4649,8 +4609,8 @@
     },
     {
         "id": 47989,
-        "airingAt": 1787572620,
-        "next_episode": 8,
+        "airingAt": 1788177420,
+        "next_episode": 9,
         "data": {
             "id": "47989",
             "type": "anime",
@@ -4659,7 +4619,7 @@
             },
             "attributes": {
                 "createdAt": "2023-09-24T17:45:39.796Z",
-                "updatedAt": "2026-08-30T03:05:15.109Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi-munou-wo-enjiru-ss-rank-ouji-wa-koui-keishou-sen-wo-kage-kara-shihai-suru",
                 "synopsis": "Arnold, the seventh Imperial Prince of the Adrasia Empire, is called \"THE INSIPID PRINCE\" among people since his twin brother is genius and respected by all people. However, he has a secret identity -SILVER, one of the only five -SS-rank adventurers in the continent. When his younger brother Leo decides to aim for the throne, Arnold starts running things behind the scenes to support his brother. Unexpectedly the most beautiful lady becomes his assistant. The secret struggle of the strongest prince begins!\n\n(Source: Kadokawa)",
                 "description": "Arnold, the seventh Imperial Prince of the Adrasia Empire, is called \"THE INSIPID PRINCE\" among people since his twin brother is genius and respected by all people. However, he has a secret identity -SILVER, one of the only five -SS-rank adventurers in the continent. When his younger brother Leo decides to aim for the throne, Arnold starts running things behind the scenes to support his brother. Unexpectedly the most beautiful lady becomes his assistant. The secret struggle of the strongest prince begins!\n\n(Source: Kadokawa)",
@@ -4689,12 +4649,12 @@
                     "18": "1",
                     "20": "4"
                 },
-                "userCount": 443,
+                "userCount": 446,
                 "favoritesCount": 1,
                 "startDate": "2026-07-06",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 9313,
+                "popularityRank": 9283,
                 "ratingRank": null,
                 "ageRating": null,
                 "ageRatingGuide": null,
@@ -4838,8 +4798,8 @@
     },
     {
         "id": 47988,
-        "airingAt": 1787581800,
-        "next_episode": 8,
+        "airingAt": 1788186600,
+        "next_episode": 9,
         "data": {
             "id": "47988",
             "type": "anime",
@@ -4848,7 +4808,7 @@
             },
             "attributes": {
                 "createdAt": "2023-09-24T17:41:36.762Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T02:48:26.277Z",
                 "slug": "tenkousaki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken",
                 "synopsis": "I met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)",
                 "description": "I met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)",
@@ -4868,10 +4828,10 @@
                     "2": "2",
                     "6": "1",
                     "8": "11",
-                    "9": "0",
+                    "9": "1",
                     "10": "4",
                     "11": "1",
-                    "12": "11",
+                    "12": "10",
                     "13": "2",
                     "14": "14",
                     "15": "0",
@@ -4879,20 +4839,20 @@
                     "17": "2",
                     "20": "3"
                 },
-                "userCount": 566,
+                "userCount": 569,
                 "favoritesCount": 3,
                 "startDate": "2026-07-06",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 8446,
-                "ratingRank": 6419,
+                "popularityRank": 8422,
+                "ratingRank": 6420,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
                 "status": "current",
                 "tba": null,
                 "posterImage": {
-                    "original": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47988/poster_image/713e94bfca3c8ddb61ab7568bf22e01a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260830%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260830T052037Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=82a6cb425ca026374bed67b98e04802d1571dd16b05753051bf4f019013a1698",
+                    "original": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47988/poster_image/713e94bfca3c8ddb61ab7568bf22e01a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260831%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260831T052903Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=6a1111d9a1a3fe24389869c7c78ff7c99f1b17a6920545c5f56af8d22a1b5dae",
                     "meta": {
                         "dimensions": {}
                     }
@@ -5007,8 +4967,8 @@
     },
     {
         "id": 49978,
-        "airingAt": 1788017400,
-        "next_episode": 9,
+        "airingAt": 1788622200,
+        "next_episode": 10,
         "data": {
             "id": "49978",
             "type": "anime",
@@ -5017,7 +4977,7 @@
             },
             "attributes": {
                 "createdAt": "2025-06-09T21:18:41.882Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "oni-no-hanayome",
                 "synopsis": "A Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n\n(Source: MangaPlaza)",
                 "description": "A Japanese-style ayakashi Cinderella story! \"You're the bride I've been searching for all this time.\" The ayakashi and humans coexist in harmony. The ayakashi, having superior abilities and beautiful appearances, sometimes find their partner among human women, making them their \"bride\". The bride, in exchange for bringing prosperity, receives absolute love from the ayakashi. Yuzu is constantly compared to her sister, a bride of a demon fox, and is resented by her family every day. One day, when Yuzu just couldn't take things anymore, a man appears before her on a bridge. This man is the most beautiful man Yuzu has ever seen... and he's calling her his wife?! \"Just be quiet and let me hold you.\" The most powerful, \"cold-hearted\" ayakashi is pouring his heart out for Yuzu?!\n\n(Source: MangaPlaza)",
@@ -5035,7 +4995,7 @@
                     "8": "3",
                     "10": "5",
                     "11": "2",
-                    "12": "2",
+                    "12": "3",
                     "13": "1",
                     "14": "7",
                     "15": "1",
@@ -5044,12 +5004,12 @@
                     "18": "3",
                     "20": "7"
                 },
-                "userCount": 334,
+                "userCount": 339,
                 "favoritesCount": 1,
                 "startDate": "2026-07-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 10377,
+                "popularityRank": 10330,
                 "ratingRank": null,
                 "ageRating": null,
                 "ageRatingGuide": null,
@@ -5193,8 +5153,8 @@
     },
     {
         "id": 49585,
-        "airingAt": 1788004800,
-        "next_episode": 10,
+        "airingAt": 1788609600,
+        "next_episode": 11,
         "data": {
             "id": "49585",
             "type": "anime",
@@ -5203,7 +5163,7 @@
             },
             "attributes": {
                 "createdAt": "2025-02-22T03:57:28.134Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T03:45:49.516Z",
                 "slug": "neko-to-ryuu",
                 "synopsis": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats \u2014 such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby \u2014 and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\n\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
                 "description": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats \u2014 such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby \u2014 and gradually warms up to humans along the way.\n\n(Source: Crunchyroll News)\n\nNote: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.",
@@ -5215,7 +5175,7 @@
                 },
                 "canonicalTitle": "Neko to Ryuu",
                 "abbreviatedTitles": [],
-                "averageRating": "77.64",
+                "averageRating": "77.6",
                 "ratingFrequencies": {
                     "2": "0",
                     "8": "1",
@@ -5223,22 +5183,22 @@
                     "10": "4",
                     "11": "0",
                     "12": "4",
-                    "13": "2",
-                    "14": "13",
-                    "15": "0",
-                    "16": "15",
+                    "13": "1",
+                    "14": "15",
+                    "15": "1",
+                    "16": "14",
                     "17": "3",
                     "18": "2",
                     "19": "2",
                     "20": "13"
                 },
-                "userCount": 595,
+                "userCount": 600,
                 "favoritesCount": 0,
                 "startDate": "2026-06-27",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 8257,
-                "ratingRank": 1450,
+                "popularityRank": 8224,
+                "ratingRank": 1464,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -5402,8 +5362,8 @@
     },
     {
         "id": 44021,
-        "airingAt": 1787657400,
-        "next_episode": 8,
+        "airingAt": 1788262200,
+        "next_episode": 9,
         "data": {
             "id": "44021",
             "type": "anime",
@@ -5412,7 +5372,7 @@
             },
             "attributes": {
                 "createdAt": "2021-02-01T18:31:36.213Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T01:33:39.350Z",
                 "slug": "tai-ari-deshita-ojou-sama-wa-kakutou-game-nante-shinai",
                 "synopsis": "Mitsuki Aya has one goal at the elite Kuromi Girls\u2019 Academy: to become a refined young lady like the school\u2019s flawless \u201cWhite Lily,\u201d Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer\u2014and she wants to duel Aya! The battle (and their friendship) begins.\n\n(Source: Crunchyroll)",
                 "description": "Mitsuki Aya has one goal at the elite Kuromi Girls\u2019 Academy: to become a refined young lady like the school\u2019s flawless \u201cWhite Lily,\u201d Yorue Mio. But her image of Mio shatters when Aya accidentally catches her...playing fighting games?! Turns out, the elegant Mio is actually a hardcore gamer\u2014and she wants to duel Aya! The battle (and their friendship) begins.\n\n(Source: Crunchyroll)",
@@ -5440,7 +5400,7 @@
                     "11": "0",
                     "12": "4",
                     "13": "0",
-                    "14": "9",
+                    "14": "10",
                     "15": "1",
                     "16": "10",
                     "17": "1",
@@ -5448,12 +5408,12 @@
                     "19": "1",
                     "20": "8"
                 },
-                "userCount": 941,
+                "userCount": 942,
                 "favoritesCount": 0,
                 "startDate": "2026-07-07",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6714,
+                "popularityRank": 6710,
                 "ratingRank": null,
                 "ageRating": "PG",
                 "ageRatingGuide": null,
@@ -5617,185 +5577,9 @@
         }
     },
     {
-        "id": 49803,
-        "airingAt": 1788062400,
-        "next_episode": 7,
-        "data": {
-            "id": "49803",
-            "type": "anime",
-            "links": {
-                "self": "https://kitsu.io/api/edge/anime/49803"
-            },
-            "attributes": {
-                "createdAt": "2025-04-02T10:42:16.096Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
-                "slug": "false-memory",
-                "synopsis": "In order to go back to the past, Guan Chao tries hard to find the \"burning stone\" that activates the time gun, but accidentally falls into the Memory Management Bureau. Only by conquering the BUG people in the memory layer can he return to reality. With the help of administrators such as Fangtang and Baizhong, can Guan Chao successfully complete the task? What kind of challenges are awaiting Guan Chao in each memory layer...\n\n(Source: Bilibili, translated)",
-                "description": "In order to go back to the past, Guan Chao tries hard to find the \"burning stone\" that activates the time gun, but accidentally falls into the Memory Management Bureau. Only by conquering the BUG people in the memory layer can he return to reality. With the help of administrators such as Fangtang and Baizhong, can Guan Chao successfully complete the task? What kind of challenges are awaiting Guan Chao in each memory layer...\n\n(Source: Bilibili, translated)",
-                "coverImageTopOffset": 0,
-                "titles": {
-                    "en": "False Memory",
-                    "en_cn": "Jiyi Guanli Ju",
-                    "zh_cn": "\u8bb0\u5fc6\u7ba1\u7406\u5c40"
-                },
-                "canonicalTitle": "False Memory",
-                "abbreviatedTitles": [],
-                "averageRating": null,
-                "ratingFrequencies": {
-                    "14": "1",
-                    "20": "1"
-                },
-                "userCount": 192,
-                "favoritesCount": 2,
-                "startDate": null,
-                "endDate": null,
-                "nextRelease": null,
-                "popularityRank": 12355,
-                "ratingRank": null,
-                "ageRating": "PG",
-                "ageRatingGuide": "Teens 13 or older",
-                "subtype": "ONA",
-                "status": "tba",
-                "tba": "2025",
-                "posterImage": {
-                    "tiny": "https://media.kitsu.app/anime/49803/poster_image/tiny-664a2cfb59c247c2cd025fe8cfcf325c.jpeg",
-                    "large": "https://media.kitsu.app/anime/49803/poster_image/large-54448736360a195d1645dcc107317025.jpeg",
-                    "small": "https://media.kitsu.app/anime/49803/poster_image/small-cc8ae99d4d37384e7d27e0f1714953f0.jpeg",
-                    "medium": "https://media.kitsu.app/anime/49803/poster_image/medium-ede766a19824f77916f01fb2c5e68c27.jpeg",
-                    "original": "https://media.kitsu.app/anime/49803/poster_image/dcc52191efbacf0cb5d856fb68ef78a6.png",
-                    "meta": {
-                        "dimensions": {
-                            "tiny": {
-                                "width": 110,
-                                "height": 156
-                            },
-                            "large": {
-                                "width": 550,
-                                "height": 780
-                            },
-                            "small": {
-                                "width": 284,
-                                "height": 402
-                            },
-                            "medium": {
-                                "width": 390,
-                                "height": 554
-                            }
-                        }
-                    }
-                },
-                "coverImage": null,
-                "episodeCount": null,
-                "episodeLength": null,
-                "totalLength": 0,
-                "youtubeVideoId": "zi38xh7p528",
-                "showType": "ONA",
-                "nsfw": false
-            },
-            "relationships": {
-                "genres": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/genres",
-                        "related": "https://kitsu.io/api/edge/anime/49803/genres"
-                    }
-                },
-                "categories": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/categories",
-                        "related": "https://kitsu.io/api/edge/anime/49803/categories"
-                    }
-                },
-                "castings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/castings",
-                        "related": "https://kitsu.io/api/edge/anime/49803/castings"
-                    }
-                },
-                "installments": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/installments",
-                        "related": "https://kitsu.io/api/edge/anime/49803/installments"
-                    }
-                },
-                "mappings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/mappings",
-                        "related": "https://kitsu.io/api/edge/anime/49803/mappings"
-                    }
-                },
-                "reviews": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/reviews",
-                        "related": "https://kitsu.io/api/edge/anime/49803/reviews"
-                    }
-                },
-                "mediaRelationships": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/media-relationships",
-                        "related": "https://kitsu.io/api/edge/anime/49803/media-relationships"
-                    }
-                },
-                "characters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/characters",
-                        "related": "https://kitsu.io/api/edge/anime/49803/characters"
-                    }
-                },
-                "staff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/staff",
-                        "related": "https://kitsu.io/api/edge/anime/49803/staff"
-                    }
-                },
-                "productions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/productions",
-                        "related": "https://kitsu.io/api/edge/anime/49803/productions"
-                    }
-                },
-                "quotes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/quotes",
-                        "related": "https://kitsu.io/api/edge/anime/49803/quotes"
-                    }
-                },
-                "episodes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/episodes",
-                        "related": "https://kitsu.io/api/edge/anime/49803/episodes"
-                    }
-                },
-                "streamingLinks": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/streaming-links",
-                        "related": "https://kitsu.io/api/edge/anime/49803/streaming-links"
-                    }
-                },
-                "animeProductions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/anime-productions",
-                        "related": "https://kitsu.io/api/edge/anime/49803/anime-productions"
-                    }
-                },
-                "animeCharacters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/anime-characters",
-                        "related": "https://kitsu.io/api/edge/anime/49803/anime-characters"
-                    }
-                },
-                "animeStaff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49803/relationships/anime-staff",
-                        "related": "https://kitsu.io/api/edge/anime/49803/anime-staff"
-                    }
-                }
-            }
-        }
-    },
-    {
         "id": 12,
-        "airingAt": 1788099360,
-        "next_episode": 1176,
+        "airingAt": 1788704160,
+        "next_episode": 1177,
         "data": {
             "id": "12",
             "type": "anime",
@@ -5804,7 +5588,7 @@
             },
             "attributes": {
                 "createdAt": "2013-02-20T16:00:25.722Z",
-                "updatedAt": "2026-08-30T01:59:07.897Z",
+                "updatedAt": "2026-08-31T04:41:45.672Z",
                 "slug": "one-piece",
                 "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece\u2014which promises an unlimited amount of riches and fame\u2014and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy\u2019s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes\u2014One Piece.\n[Written by MAL Rewrite]",
                 "description": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece\u2014which promises an unlimited amount of riches and fame\u2014and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy\u2019s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes\u2014One Piece.\n[Written by MAL Rewrite]",
@@ -5832,16 +5616,16 @@
                     "11": "245",
                     "12": "2837",
                     "13": "326",
-                    "14": "23107",
+                    "14": "23108",
                     "15": "700",
                     "16": "7991",
-                    "17": "1232",
-                    "18": "8893",
+                    "17": "1233",
+                    "18": "8895",
                     "19": "1238",
-                    "20": "99288"
+                    "20": "99294"
                 },
-                "userCount": 324029,
-                "favoritesCount": 10746,
+                "userCount": 324045,
+                "favoritesCount": 10747,
                 "startDate": "1999-10-20",
                 "endDate": null,
                 "nextRelease": "2026-09-06T09:30:00.000+09:00",
@@ -6010,8 +5794,8 @@
     },
     {
         "id": 43740,
-        "airingAt": 1788080400,
-        "next_episode": 381,
+        "airingAt": 1788685200,
+        "next_episode": 382,
         "data": {
             "id": "43740",
             "type": "anime",
@@ -6020,7 +5804,7 @@
             },
             "attributes": {
                 "createdAt": "2020-11-19T04:20:22.889Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "holo-no-graffiti",
                 "synopsis": "Comedy shorts featuring various VTuber characters from Hololive agency.(Source: AniList)",
                 "description": "Comedy shorts featuring various VTuber characters from Hololive agency.(Source: AniList)",
@@ -6054,7 +5838,7 @@
                     "19": "3",
                     "20": "227"
                 },
-                "userCount": 2212,
+                "userCount": 2213,
                 "favoritesCount": 22,
                 "startDate": "2019-05-05",
                 "endDate": null,
@@ -6117,7 +5901,7 @@
                 },
                 "episodeCount": null,
                 "episodeLength": 1,
-                "totalLength": 381,
+                "totalLength": 382,
                 "youtubeVideoId": null,
                 "showType": "ONA",
                 "nsfw": false
@@ -6224,8 +6008,8 @@
     },
     {
         "id": 49183,
-        "airingAt": 1787844360,
-        "next_episode": 9,
+        "airingAt": 1788449160,
+        "next_episode": 10,
         "data": {
             "id": "49183",
             "type": "anime",
@@ -6234,7 +6018,7 @@
             },
             "attributes": {
                 "createdAt": "2024-09-06T14:42:57.594Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:41:56.504Z",
                 "slug": "tsuihou-sareta-tensei-juukishi-wa-game-sashiki-de-musou-suru",
                 "synopsis": "The day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: K Manga)",
                 "description": "The day a child turns fifteen, they undergo the Ritual of Divine Blessing. Already descended from a line of master swordsman, Elymas was supposed to succeed his father. However, he pulls the defective class, the Heavy Knight, and not only loses his status as future head of the household, but he's also exiled. With their unbalanced stats and seemingly useless skills, Heavy Knights are spoked of as a class for cowards and the lazy. However, Elymas knows the truth. The world he lives in is the same as the one of the game he used to play... It is the Heavy Knight that is the most powerful class of them all. Using memories from his past life, Elymas has set out to effectively conquer this entire world.\n\n(Source: K Manga)",
@@ -6260,21 +6044,21 @@
                     "11": "1",
                     "12": "4",
                     "13": "1",
-                    "14": "13",
+                    "14": "14",
                     "15": "3",
-                    "16": "12",
+                    "16": "11",
                     "17": "2",
                     "18": "1",
                     "19": "1",
-                    "20": "12"
+                    "20": "13"
                 },
-                "userCount": 897,
+                "userCount": 901,
                 "favoritesCount": 6,
                 "startDate": "2026-07-03",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6884,
-                "ratingRank": 5301,
+                "popularityRank": 6871,
+                "ratingRank": 5299,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -6416,224 +6200,9 @@
         }
     },
     {
-        "id": 49002,
-        "airingAt": 1788102000,
-        "next_episode": 10,
-        "data": {
-            "id": "49002",
-            "type": "anime",
-            "links": {
-                "self": "https://kitsu.io/api/edge/anime/49002"
-            },
-            "attributes": {
-                "createdAt": "2024-06-30T16:43:27.099Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
-                "slug": "Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Season-3",
-                "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-                "description": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
-                "coverImageTopOffset": 0,
-                "titles": {
-                    "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
-                    "en_jp": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
-                    "ja_jp": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e \u7b2c3\u671f"
-                },
-                "canonicalTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
-                "abbreviatedTitles": [
-                    "Mushoku Tensei: Jobless Reincarnation Season 3",
-                    "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-                    "\u7121\u8077\u8ee2\u751f \u2162 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e"
-                ],
-                "averageRating": "84.11",
-                "ratingFrequencies": {
-                    "2": "4",
-                    "3": "0",
-                    "4": "0",
-                    "8": "6",
-                    "9": "2",
-                    "10": "1",
-                    "11": "0",
-                    "12": "5",
-                    "13": "1",
-                    "14": "23",
-                    "15": "5",
-                    "16": "28",
-                    "17": "11",
-                    "18": "51",
-                    "19": "6",
-                    "20": "85"
-                },
-                "userCount": 3199,
-                "favoritesCount": 21,
-                "startDate": "2026-07-04",
-                "endDate": null,
-                "nextRelease": null,
-                "popularityRank": 3706,
-                "ratingRank": 52,
-                "ageRating": "R",
-                "ageRatingGuide": "17+ (violence & profanity)",
-                "subtype": "TV",
-                "status": "current",
-                "tba": null,
-                "posterImage": {
-                    "tiny": "https://media.kitsu.app/anime/49002/poster_image/tiny-e7450d9e53ec41988b3850666f305d31.jpeg",
-                    "large": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
-                    "small": "https://media.kitsu.app/anime/49002/poster_image/small-617cb0afcc185c1181cfa5b571a2e9d8.jpeg",
-                    "medium": "https://media.kitsu.app/anime/49002/poster_image/medium-cc3eaf73a267ee6707cdf04dd100a23f.jpeg",
-                    "original": "https://media.kitsu.app/anime/49002/poster_image/6d09b03ffdd5c49802ad21c160b72cb2.jpg",
-                    "meta": {
-                        "dimensions": {
-                            "tiny": {
-                                "width": 110,
-                                "height": 156
-                            },
-                            "large": {
-                                "width": 550,
-                                "height": 780
-                            },
-                            "small": {
-                                "width": 284,
-                                "height": 402
-                            },
-                            "medium": {
-                                "width": 390,
-                                "height": 554
-                            }
-                        }
-                    }
-                },
-                "coverImage": {
-                    "tiny": "https://media.kitsu.app/anime/49002/cover_image/tiny-b009b428e521b59ae18225cea9bbcda7.jpeg",
-                    "large": "https://media.kitsu.app/anime/49002/cover_image/large-2b36b6f9472d3d6193f597b42f97f013.jpeg",
-                    "small": "https://media.kitsu.app/anime/49002/cover_image/small-af676ae66c1260cbc9c68f84beb9266a.jpeg",
-                    "original": "https://media.kitsu.app/anime/49002/cover_image/7f0419f55777921aeb8f140129ef28a6.jpg",
-                    "meta": {
-                        "dimensions": {
-                            "tiny": {
-                                "width": 840,
-                                "height": 200
-                            },
-                            "large": {
-                                "width": 3360,
-                                "height": 800
-                            },
-                            "small": {
-                                "width": 1680,
-                                "height": 400
-                            }
-                        }
-                    }
-                },
-                "episodeCount": 14,
-                "episodeLength": null,
-                "totalLength": 0,
-                "youtubeVideoId": "ODxfIvSgWuo",
-                "showType": "TV",
-                "nsfw": false
-            },
-            "relationships": {
-                "genres": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/genres",
-                        "related": "https://kitsu.io/api/edge/anime/49002/genres"
-                    }
-                },
-                "categories": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/categories",
-                        "related": "https://kitsu.io/api/edge/anime/49002/categories"
-                    }
-                },
-                "castings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/castings",
-                        "related": "https://kitsu.io/api/edge/anime/49002/castings"
-                    }
-                },
-                "installments": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/installments",
-                        "related": "https://kitsu.io/api/edge/anime/49002/installments"
-                    }
-                },
-                "mappings": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/mappings",
-                        "related": "https://kitsu.io/api/edge/anime/49002/mappings"
-                    }
-                },
-                "reviews": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/reviews",
-                        "related": "https://kitsu.io/api/edge/anime/49002/reviews"
-                    }
-                },
-                "mediaRelationships": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/media-relationships",
-                        "related": "https://kitsu.io/api/edge/anime/49002/media-relationships"
-                    }
-                },
-                "characters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/characters",
-                        "related": "https://kitsu.io/api/edge/anime/49002/characters"
-                    }
-                },
-                "staff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/staff",
-                        "related": "https://kitsu.io/api/edge/anime/49002/staff"
-                    }
-                },
-                "productions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/productions",
-                        "related": "https://kitsu.io/api/edge/anime/49002/productions"
-                    }
-                },
-                "quotes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/quotes",
-                        "related": "https://kitsu.io/api/edge/anime/49002/quotes"
-                    }
-                },
-                "episodes": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/episodes",
-                        "related": "https://kitsu.io/api/edge/anime/49002/episodes"
-                    }
-                },
-                "streamingLinks": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/streaming-links",
-                        "related": "https://kitsu.io/api/edge/anime/49002/streaming-links"
-                    }
-                },
-                "animeProductions": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-productions",
-                        "related": "https://kitsu.io/api/edge/anime/49002/anime-productions"
-                    }
-                },
-                "animeCharacters": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-characters",
-                        "related": "https://kitsu.io/api/edge/anime/49002/anime-characters"
-                    }
-                },
-                "animeStaff": {
-                    "links": {
-                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-staff",
-                        "related": "https://kitsu.io/api/edge/anime/49002/anime-staff"
-                    }
-                }
-            }
-        }
-    },
-    {
         "id": 49265,
-        "airingAt": 1787927400,
-        "next_episode": 7,
+        "airingAt": 1788532200,
+        "next_episode": 8,
         "data": {
             "id": "49265",
             "type": "anime",
@@ -6642,7 +6211,7 @@
             },
             "attributes": {
                 "createdAt": "2024-10-06T15:13:10.822Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "nige-jouzu-no-wakagimi-2nd-season",
                 "synopsis": "The second season of Nige Jouzu no Wakagimi.",
                 "description": "The second season of Nige Jouzu no Wakagimi.",
@@ -6666,12 +6235,12 @@
                     "18": "2",
                     "20": "3"
                 },
-                "userCount": 518,
+                "userCount": 519,
                 "favoritesCount": 0,
                 "startDate": "2026-07-17",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 8742,
+                "popularityRank": 8731,
                 "ratingRank": null,
                 "ageRating": "R",
                 "ageRatingGuide": "17+ (violence & profanity)",
@@ -6706,7 +6275,7 @@
                     }
                 },
                 "coverImage": {
-                    "original": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260830%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260830T052039Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7bd9a1484d24472a46e44324205956d0fdf5cccacb5c1699269742cdc97c68ea",
+                    "original": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49265/cover_image/a45fecbdca144c93c445b31310bb489a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20260831%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20260831T052905Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=33fcef329b103ed2df06b357002886deaa0eeca693b69829844563a6b8847674",
                     "meta": {
                         "dimensions": {}
                     }
@@ -6819,9 +6388,216 @@
         }
     },
     {
+        "id": 47546,
+        "airingAt": 1788516000,
+        "next_episode": 133,
+        "data": {
+            "id": "47546",
+            "type": "anime",
+            "links": {
+                "self": "https://kitsu.io/api/edge/anime/47546"
+            },
+            "attributes": {
+                "createdAt": "2023-06-02T17:31:30.312Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
+                "slug": "beyblade-x",
+                "synopsis": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ex also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen 'X'. The super accelerated (Xtreme) beyblade runs through a new era!\n\n(Source: Official website)",
+                "description": "Kazami Bird, aiming to become a professional, meets former champion Kurosu Ex also known as 'Kamen X' and forms a team so that they can aim for the \"top\" of the X Tower. But what awaits them is a spectacular battle that no one has ever seen before. The yet unseen 'X'. The super accelerated (Xtreme) beyblade runs through a new era!\n\n(Source: Official website)",
+                "coverImageTopOffset": 0,
+                "titles": {
+                    "en_jp": "Beyblade X",
+                    "ja_jp": "\u30d9\u30a4\u30d6\u30ec\u30fc\u30c9\u30a8\u30c3\u30af\u30b9"
+                },
+                "canonicalTitle": "Beyblade X",
+                "abbreviatedTitles": [
+                    "\u30d9\u30a4\u30d6\u30ec\u30a4\u30c9 X"
+                ],
+                "averageRating": null,
+                "ratingFrequencies": {
+                    "2": "0",
+                    "4": "2",
+                    "6": "1",
+                    "8": "2",
+                    "10": "6",
+                    "12": "3",
+                    "13": "1",
+                    "14": "7",
+                    "16": "3",
+                    "18": "2",
+                    "20": "6"
+                },
+                "userCount": 238,
+                "favoritesCount": 0,
+                "startDate": "2023-10-06",
+                "endDate": null,
+                "nextRelease": null,
+                "popularityRank": 11576,
+                "ratingRank": null,
+                "ageRating": "G",
+                "ageRatingGuide": "All Ages",
+                "subtype": "TV",
+                "status": "current",
+                "tba": null,
+                "posterImage": {
+                    "tiny": "https://media.kitsu.app/anime/47546/poster_image/tiny-ccf61954b01bb81b84da8c0f8035fb6c.jpeg",
+                    "large": "https://media.kitsu.app/anime/47546/poster_image/large-a7c627147abc8f42f0c61bcbbe702945.jpeg",
+                    "small": "https://media.kitsu.app/anime/47546/poster_image/small-9d1392fc19886ae2db15afcce975276a.jpeg",
+                    "medium": "https://media.kitsu.app/anime/47546/poster_image/medium-8f8dd50e9861c42a9751864616ad420e.jpeg",
+                    "original": "https://media.kitsu.app/anime/47546/poster_image/4268e87ad276a970cd1b7def0cc48f01.jfif",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 110,
+                                "height": 156
+                            },
+                            "large": {
+                                "width": 550,
+                                "height": 780
+                            },
+                            "small": {
+                                "width": 284,
+                                "height": 402
+                            },
+                            "medium": {
+                                "width": 390,
+                                "height": 554
+                            }
+                        }
+                    }
+                },
+                "coverImage": {
+                    "tiny": "https://media.kitsu.app/anime/47546/cover_image/tiny-4e24d18d94dbaed76aa501687f088f1d.jpeg",
+                    "large": "https://media.kitsu.app/anime/47546/cover_image/large-b95e49f7ea43da9487d80c9beb273690.jpeg",
+                    "small": "https://media.kitsu.app/anime/47546/cover_image/small-d6d7133517aea8f62ca279954ab2b57e.jpeg",
+                    "original": "https://media.kitsu.app/anime/47546/cover_image/58ce51a940e1f68c988d7d3575ed4573.png",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 840,
+                                "height": 200
+                            },
+                            "large": {
+                                "width": 3360,
+                                "height": 800
+                            },
+                            "small": {
+                                "width": 1680,
+                                "height": 400
+                            }
+                        }
+                    }
+                },
+                "episodeCount": null,
+                "episodeLength": null,
+                "totalLength": -1122,
+                "youtubeVideoId": "SXdTmFshlFs",
+                "showType": "TV",
+                "nsfw": false
+            },
+            "relationships": {
+                "genres": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/genres",
+                        "related": "https://kitsu.io/api/edge/anime/47546/genres"
+                    }
+                },
+                "categories": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/categories",
+                        "related": "https://kitsu.io/api/edge/anime/47546/categories"
+                    }
+                },
+                "castings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/castings",
+                        "related": "https://kitsu.io/api/edge/anime/47546/castings"
+                    }
+                },
+                "installments": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/installments",
+                        "related": "https://kitsu.io/api/edge/anime/47546/installments"
+                    }
+                },
+                "mappings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/mappings",
+                        "related": "https://kitsu.io/api/edge/anime/47546/mappings"
+                    }
+                },
+                "reviews": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/reviews",
+                        "related": "https://kitsu.io/api/edge/anime/47546/reviews"
+                    }
+                },
+                "mediaRelationships": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/media-relationships",
+                        "related": "https://kitsu.io/api/edge/anime/47546/media-relationships"
+                    }
+                },
+                "characters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/characters",
+                        "related": "https://kitsu.io/api/edge/anime/47546/characters"
+                    }
+                },
+                "staff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/staff",
+                        "related": "https://kitsu.io/api/edge/anime/47546/staff"
+                    }
+                },
+                "productions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/productions",
+                        "related": "https://kitsu.io/api/edge/anime/47546/productions"
+                    }
+                },
+                "quotes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/quotes",
+                        "related": "https://kitsu.io/api/edge/anime/47546/quotes"
+                    }
+                },
+                "episodes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/episodes",
+                        "related": "https://kitsu.io/api/edge/anime/47546/episodes"
+                    }
+                },
+                "streamingLinks": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/streaming-links",
+                        "related": "https://kitsu.io/api/edge/anime/47546/streaming-links"
+                    }
+                },
+                "animeProductions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/anime-productions",
+                        "related": "https://kitsu.io/api/edge/anime/47546/anime-productions"
+                    }
+                },
+                "animeCharacters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/anime-characters",
+                        "related": "https://kitsu.io/api/edge/anime/47546/anime-characters"
+                    }
+                },
+                "animeStaff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/47546/relationships/anime-staff",
+                        "related": "https://kitsu.io/api/edge/anime/47546/anime-staff"
+                    }
+                }
+            }
+        }
+    },
+    {
         "id": 49607,
-        "airingAt": 1787661000,
-        "next_episode": 8,
+        "airingAt": 1788265800,
+        "next_episode": 9,
         "data": {
             "id": "49607",
             "type": "anime",
@@ -6830,7 +6606,7 @@
             },
             "attributes": {
                 "createdAt": "2025-03-03T03:31:46.604Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "kimi-ga-shinu-made-koi-wo-shitai",
                 "synopsis": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents\u2014girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon\u2014an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it\u2026\n\n(Source: Kodansha USA)",
                 "description": "At the mysterious orphanage where Sheena lives, death is nothing new to its residents\u2014girls who no longer have families of their own, who are raised as weapons of war, taught to kill and take the lives of others without batting an eye. Everyone, that is, except Sheena, who wishes for nothing more than the growing conflict around her to end. On the night of her roommate's death, Sheena meets a strange girl covered in blood, who smiles despite the turmoil surrounding them. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi. Initially thought to be a school myth, there are now whispers in the orphanage's halls that Mimi is their secret weapon\u2014an immortal who cannot die. When Mimi is later assigned as Sheena's new roommate, Sheena's world grows even more complicated when she begins living with someone who loves and welcomes death, when all Sheena wants to do is stop it\u2026\n\n(Source: Kodansha USA)",
@@ -6857,13 +6633,13 @@
                     "18": "8",
                     "20": "4"
                 },
-                "userCount": 970,
+                "userCount": 972,
                 "favoritesCount": 3,
                 "startDate": "2026-07-07",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6602,
-                "ratingRank": 2485,
+                "popularityRank": 6591,
+                "ratingRank": 2488,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -7006,8 +6782,8 @@
     },
     {
         "id": 49700,
-        "airingAt": 1788048000,
-        "next_episode": 45,
+        "airingAt": 1788652800,
+        "next_episode": 46,
         "data": {
             "id": "49700",
             "type": "anime",
@@ -7016,7 +6792,7 @@
             },
             "attributes": {
                 "createdAt": "2025-03-20T14:48:05.356Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T01:23:21.267Z",
                 "slug": "digimon-beatbreak",
                 "synopsis": "GLITCH THE FUTURE.\n\nTomoro Tenma lives in a world where human thoughts and emotions\u2014known as \u201ce-Pulse\u201d\u2014power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion. What new future will be forged by humans and Digimon?\n\n(Source: Crunchyroll, DIGIMON BEATBREAK Official Site, edited)",
                 "description": "GLITCH THE FUTURE.\n\nTomoro Tenma lives in a world where human thoughts and emotions\u2014known as \u201ce-Pulse\u201d\u2014power AI devices called Sapotama. But when Digimon begin materializing from Sapotama and feeding on e-Pulse, society begins to fracture. After Gekkomon appears from his device, Tomoro joins Glowing Dawn, a secret team investigating rogue Digimon and the dark truth of a system both fueled and corrupted by emotion. What new future will be forged by humans and Digimon?\n\n(Source: Crunchyroll, DIGIMON BEATBREAK Official Site, edited)",
@@ -7042,8 +6818,8 @@
                     "15": "3",
                     "16": "8",
                     "17": "2",
-                    "18": "4",
-                    "19": "2",
+                    "18": "5",
+                    "19": "1",
                     "20": "6"
                 },
                 "userCount": 533,
@@ -7051,8 +6827,8 @@
                 "startDate": "2025-10-05",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 8643,
-                "ratingRank": 3230,
+                "popularityRank": 8641,
+                "ratingRank": 3233,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -7195,8 +6971,8 @@
     },
     {
         "id": 49235,
-        "airingAt": 1787925600,
-        "next_episode": 20,
+        "airingAt": 1788530400,
+        "next_episode": 21,
         "data": {
             "id": "49235",
             "type": "anime",
@@ -7205,7 +6981,7 @@
             },
             "attributes": {
                 "createdAt": "2024-09-27T18:11:12.010Z",
-                "updatedAt": "2026-08-30T01:20:33.288Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "tensei-shitara-slime-datta-ken-4th-season",
                 "synopsis": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
                 "description": "The fourth season of Tensei Shitara Slime Datta Ken.\n\nDemon Lord Rimuru's dream of creating an alliance between humans and monsters takes a step closer to being realized. As Tempest continues to prosper, Granville Rozzo and his granddaughter, Maribel Rozzo, clash with Demon Lord Rimuru over their plan to protect mankind by ruling over them. Meanwhile, in El Dorado, Demon Lord Leon works toward goals of his own. The awakening of a new Hero draws near!\n\n(Source: Crunchyroll News)",
@@ -7219,7 +6995,7 @@
                 "abbreviatedTitles": [
                     "Tensura 4"
                 ],
-                "averageRating": "82.34",
+                "averageRating": "82.41",
                 "ratingFrequencies": {
                     "2": "0",
                     "4": "1",
@@ -7238,13 +7014,13 @@
                     "19": "9",
                     "20": "104"
                 },
-                "userCount": 3000,
+                "userCount": 3003,
                 "favoritesCount": 18,
                 "startDate": "2026-04-03",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 3856,
-                "ratingRank": 173,
+                "popularityRank": 3854,
+                "ratingRank": 160,
                 "ageRating": null,
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -7387,8 +7163,8 @@
     },
     {
         "id": 49444,
-        "airingAt": 1788012000,
-        "next_episode": 6,
+        "airingAt": 1788616800,
+        "next_episode": 7,
         "data": {
             "id": "49444",
             "type": "anime",
@@ -7397,7 +7173,7 @@
             },
             "attributes": {
                 "createdAt": "2024-12-28T22:39:35.477Z",
-                "updatedAt": "2026-08-30T03:22:08.154Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "bleach-sennen-kessen-hen-kashintan",
                 "synopsis": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and the Quincies...\n\nThe Royal Guard Squad Zero confronts Yhwach as he attempts to enter the Royal Palace. However, the Quincy King and his Royal Guard shatter Squad Zero's powerful Bankai and finally step into the Reio Greater Palace. Ichibe Hyosube entrusts Ichigo Kurosaki and his allies to protect the Soul King, but due to Yhwach's trickery, Ichigo cuts down the Soul King with his sword.\n\nThe death of the Soul King mirrors the collapse of the Three Worlds, as distortions and omens of destruction start to appear in all realms. The Thirteen Court Guard Squads join forces with the surviving Quincies and head for the Royal Palace, but it's fallen under the control of the Wandenreich, who have transformed it into the Wahr Welt. The Royal Guard wait for them within the castle, ominously towering against the sky.\n\nFierce battles then erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait\u2014despair or hope?\n\n(Source: Official Site)",
                 "description": "Destruction looms at the end of the Thousand-Year Blood War between the Soul Reapers and the Quincies...\n\nThe Royal Guard Squad Zero confronts Yhwach as he attempts to enter the Royal Palace. However, the Quincy King and his Royal Guard shatter Squad Zero's powerful Bankai and finally step into the Reio Greater Palace. Ichibe Hyosube entrusts Ichigo Kurosaki and his allies to protect the Soul King, but due to Yhwach's trickery, Ichigo cuts down the Soul King with his sword.\n\nThe death of the Soul King mirrors the collapse of the Three Worlds, as distortions and omens of destruction start to appear in all realms. The Thirteen Court Guard Squads join forces with the surviving Quincies and head for the Royal Palace, but it's fallen under the control of the Wandenreich, who have transformed it into the Wahr Welt. The Royal Guard wait for them within the castle, ominously towering against the sky.\n\nFierce battles then erupt throughout the Wahr Welt between the Thirteen Court Guard Squads and the Royal Guard. Ichigo learns about Uryu's true intentions and renews his determination to protect the world together, as friends who trust each other. Yhwach has surpassed even his own ability, The Almighty...\n\nThe fierce battle for the survival of the Three Worlds approaches its end. Beyond the chaos of calamity, what lies in wait\u2014despair or hope?\n\n(Source: Official Site)",
@@ -7414,7 +7190,7 @@
                     "BLEACH: Thousand-Year Blood War Final Part - The Calamity",
                     "BLEACH: Thousand-Year Blood War - The Calamity"
                 ],
-                "averageRating": "85.1",
+                "averageRating": "85.27",
                 "ratingFrequencies": {
                     "2": "1",
                     "8": "0",
@@ -7427,15 +7203,15 @@
                     "17": "1",
                     "18": "14",
                     "19": "1",
-                    "20": "60"
+                    "20": "61"
                 },
-                "userCount": 1212,
+                "userCount": 1220,
                 "favoritesCount": 9,
                 "startDate": "2026-07-25",
                 "endDate": "2026-09-26",
                 "nextRelease": null,
-                "popularityRank": 6003,
-                "ratingRank": 38,
+                "popularityRank": 5982,
+                "ratingRank": 32,
                 "ageRating": "R",
                 "ageRatingGuide": "17+ (violence & profanity)",
                 "subtype": "TV",
@@ -7599,8 +7375,8 @@
     },
     {
         "id": 46859,
-        "airingAt": 1787910900,
-        "next_episode": 147,
+        "airingAt": 1788515700,
+        "next_episode": 148,
         "data": {
             "id": "46859",
             "type": "anime",
@@ -7609,7 +7385,7 @@
             },
             "attributes": {
                 "createdAt": "2022-12-16T13:02:18.310Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "Pocket-Monsters-2023",
                 "synopsis": "A new dream and adventure set throughout the entire Pok\u00e9mon world unfolds in a brand new Pok\u00e9mon-series following a girl named Riko and a boy named Roy.",
                 "description": "A new dream and adventure set throughout the entire Pok\u00e9mon world unfolds in a brand new Pok\u00e9mon-series following a girl named Riko and a boy named Roy.",
@@ -7621,7 +7397,7 @@
                 },
                 "canonicalTitle": "Pocket Monsters (2023)",
                 "abbreviatedTitles": [],
-                "averageRating": "76.07",
+                "averageRating": "76.06",
                 "ratingFrequencies": {
                     "2": "5",
                     "3": "0",
@@ -7648,8 +7424,8 @@
                 "startDate": "2023-04-14",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 5678,
-                "ratingRank": 2020,
+                "popularityRank": 5674,
+                "ratingRank": 2023,
                 "ageRating": "G",
                 "ageRatingGuide": null,
                 "subtype": "TV",
@@ -7813,8 +7589,8 @@
     },
     {
         "id": 210,
-        "airingAt": 1787994000,
-        "next_episode": 1211,
+        "airingAt": 1788598800,
+        "next_episode": 1212,
         "data": {
             "id": "210",
             "type": "anime",
@@ -7823,7 +7599,7 @@
             },
             "attributes": {
                 "createdAt": "2013-02-20T16:03:31.052Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "detective-conan",
                 "synopsis": "Shinichi Kudou, a great mystery expert at only seventeen, is already well known for having solved several challenging cases. One day, when Shinichi sees two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. When the men catch Shinichi, they dose him with an experimental drug formulated by their criminal organization and abandon him to die. However, to his own astonishment, Shinichi is still alive and soon wakes up, but now, he has the body of a seven-year-old, perfectly preserving his original intelligence. He hides his real identity from everyone, including his childhood friend Ran Mouri and her father, private detective Kogorou Mouri, and takes on the alias of Conan Edogawa (inspired by the mystery writers Arthur Conan Doyle and Ranpo Edogawa). Animated by TMS and adapted from the manga by Gosho Aoyama, Detective Conan follows Shinichi who, as Conan, starts secretly solving the senior Mouri's cases from behind the scenes with his still exceptional sleuthing skills, while covertly investigating the organization responsible for his current state, hoping to reverse the drug's effects someday. (Source: MAL Rewrite)",
                 "description": "Shinichi Kudou, a great mystery expert at only seventeen, is already well known for having solved several challenging cases. One day, when Shinichi sees two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. When the men catch Shinichi, they dose him with an experimental drug formulated by their criminal organization and abandon him to die. However, to his own astonishment, Shinichi is still alive and soon wakes up, but now, he has the body of a seven-year-old, perfectly preserving his original intelligence. He hides his real identity from everyone, including his childhood friend Ran Mouri and her father, private detective Kogorou Mouri, and takes on the alias of Conan Edogawa (inspired by the mystery writers Arthur Conan Doyle and Ranpo Edogawa). Animated by TMS and adapted from the manga by Gosho Aoyama, Detective Conan follows Shinichi who, as Conan, starts secretly solving the senior Mouri's cases from behind the scenes with his still exceptional sleuthing skills, while covertly investigating the organization responsible for his current state, hoping to reverse the drug's effects someday. (Source: MAL Rewrite)",
@@ -7871,19 +7647,19 @@
                     "13": "40",
                     "14": "2352",
                     "15": "90",
-                    "16": "1987",
+                    "16": "1988",
                     "17": "160",
                     "18": "1407",
                     "19": "92",
-                    "20": "5409"
+                    "20": "5410"
                 },
-                "userCount": 35683,
-                "favoritesCount": 1083,
+                "userCount": 35685,
+                "favoritesCount": 1084,
                 "startDate": "1996-01-08",
                 "endDate": null,
                 "nextRelease": "2026-09-05T18:00:00.000+09:00",
                 "popularityRank": 439,
-                "ratingRank": 453,
+                "ratingRank": 451,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
                 "subtype": "TV",
@@ -8047,8 +7823,8 @@
     },
     {
         "id": 49361,
-        "airingAt": 1787995560,
-        "next_episode": 20,
+        "airingAt": 1788600360,
+        "next_episode": 21,
         "data": {
             "id": "49361",
             "type": "anime",
@@ -8057,7 +7833,7 @@
             },
             "attributes": {
                 "createdAt": "2024-11-20T12:31:40.019Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "mairimashita-iruma-kun-4th-season",
                 "synopsis": "The fourth season of Mairimashita! Iruma-kun.\n\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n\n(Source: Crunchyroll News)",
                 "description": "The fourth season of Mairimashita! Iruma-kun.\n\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n\n(Source: Crunchyroll News)",
@@ -8087,12 +7863,12 @@
                     "19": "2",
                     "20": "37"
                 },
-                "userCount": 962,
+                "userCount": 965,
                 "favoritesCount": 3,
                 "startDate": "2026-04-04",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 6634,
+                "popularityRank": 6623,
                 "ratingRank": 513,
                 "ageRating": "PG",
                 "ageRatingGuide": "Teens 13 or older",
@@ -8236,8 +8012,8 @@
     },
     {
         "id": 48899,
-        "airingAt": 1787666400,
-        "next_episode": 8,
+        "airingAt": 1788271200,
+        "next_episode": 9,
         "data": {
             "id": "48899",
             "type": "anime",
@@ -8246,7 +8022,7 @@
             },
             "attributes": {
                 "createdAt": "2024-05-25T10:16:10.364Z",
-                "updatedAt": "2026-08-30T00:00:17.099Z",
+                "updatedAt": "2026-08-31T04:18:15.484Z",
                 "slug": "The-Ghost-in-the-Shell",
                 "synopsis": "The year is 2029, a near future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it.  But the nation-state ethnic groups still survive.\n\nMotoko Kusanagi, a full-body cyborg, leads an elite combat unit of fellow cyborgs, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Home Affairs, who had been planning to establish a similar unit, scouts Kusanagi and her team. \n\nTogether, they begin operations as Public Security Section 9 \u2014 an aggressive tactical  organization known as the \"Shell Squad.\" As they confront complex cyber-crimes and international conspiracies, the existence of a mysterious, unidentified hacker known as \"the Pupper Master\" emerges on the horizon of their investigation. What fate awaits Kusanagi? \n\nAnd what is the Puppet Master's true objective?\n\nA new era of cyberbunk action begins.\n\n(Source:\u653b\u6bbb\u6a5f\u52d5\u968a THE GHOST IN THE SHELL Site)",
                 "description": "The year is 2029, a near future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it.  But the nation-state ethnic groups still survive.\n\nMotoko Kusanagi, a full-body cyborg, leads an elite combat unit of fellow cyborgs, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Home Affairs, who had been planning to establish a similar unit, scouts Kusanagi and her team. \n\nTogether, they begin operations as Public Security Section 9 \u2014 an aggressive tactical  organization known as the \"Shell Squad.\" As they confront complex cyber-crimes and international conspiracies, the existence of a mysterious, unidentified hacker known as \"the Pupper Master\" emerges on the horizon of their investigation. What fate awaits Kusanagi? \n\nAnd what is the Puppet Master's true objective?\n\nA new era of cyberbunk action begins.\n\n(Source:\u653b\u6bbb\u6a5f\u52d5\u968a THE GHOST IN THE SHELL Site)",
@@ -8272,16 +8048,16 @@
                     "16": "18",
                     "17": "5",
                     "18": "11",
-                    "19": "4",
+                    "19": "5",
                     "20": "19"
                 },
-                "userCount": 981,
+                "userCount": 984,
                 "favoritesCount": 13,
                 "startDate": "2026-07-07",
                 "endDate": "2026-09-08",
                 "nextRelease": null,
-                "popularityRank": 6560,
-                "ratingRank": 686,
+                "popularityRank": 6550,
+                "ratingRank": 688,
                 "ageRating": "R",
                 "ageRatingGuide": "17+ (violence & profanity)",
                 "subtype": "TV",
@@ -8444,9 +8220,401 @@
         }
     },
     {
+        "id": 48293,
+        "airingAt": 1788597000,
+        "next_episode": 20,
+        "data": {
+            "id": "48293",
+            "type": "anime",
+            "links": {
+                "self": "https://kitsu.io/api/edge/anime/48293"
+            },
+            "attributes": {
+                "createdAt": "2023-12-06T15:48:04.677Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
+                "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-4th-season",
+                "synopsis": "Anime adaptation of Part 3 of Honzuki no Gekokujou.\n\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to \u201cRozemyne\u201d and beginning her new life as the adopted daughter of Ehrenfest\u2019s archduke. However, her days as an arch-noble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple\u2019s book room as a reward. If she could get her hands on those, she\u2019d be able to read all sorts of precious books! Her name may have changed, but Rozemyne\u2019s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n\n(Source: J-Novel Club)",
+                "description": "Anime adaptation of Part 3 of Honzuki no Gekokujou.\n\nFollowing a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to \u201cRozemyne\u201d and beginning her new life as the adopted daughter of Ehrenfest\u2019s archduke. However, her days as an arch-noble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple\u2019s book room as a reward. If she could get her hands on those, she\u2019d be able to read all sorts of precious books! Her name may have changed, but Rozemyne\u2019s passion for books remains the same as she charges into a whole new world! The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this biblio-fantasy for book lovers everywhere!\n\n(Source: J-Novel Club)",
+                "coverImageTopOffset": 0,
+                "titles": {
+                    "en": "Ascendance of a Bookworm Season 4",
+                    "en_jp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season",
+                    "ja_jp": "\u672c\u597d\u304d\u306e\u4e0b\u524b\u4e0a \u53f8\u66f8\u306b\u306a\u308b\u305f\u3081\u306b\u306f\u624b\u6bb5\u3092\u9078\u3093\u3067\u3044\u3089\u308c\u307e\u305b\u3093 \u7b2c4\u671f"
+                },
+                "canonicalTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4th Season",
+                "abbreviatedTitles": [
+                    "Honzuki no Gekokujou: Ryoushu no Youjo"
+                ],
+                "averageRating": "78.96",
+                "ratingFrequencies": {
+                    "2": "2",
+                    "7": "0",
+                    "8": "1",
+                    "10": "3",
+                    "12": "3",
+                    "13": "2",
+                    "14": "27",
+                    "15": "8",
+                    "16": "24",
+                    "17": "3",
+                    "18": "14",
+                    "20": "25"
+                },
+                "userCount": 1457,
+                "favoritesCount": 8,
+                "startDate": "2026-04-04",
+                "endDate": null,
+                "nextRelease": null,
+                "popularityRank": 5524,
+                "ratingRank": 1066,
+                "ageRating": null,
+                "ageRatingGuide": null,
+                "subtype": "TV",
+                "status": "current",
+                "tba": null,
+                "posterImage": {
+                    "tiny": "https://media.kitsu.app/anime/48293/poster_image/tiny-9f5908c21eb2eb0e515d1af799c4e619.jpeg",
+                    "large": "https://media.kitsu.app/anime/48293/poster_image/large-00288fe42418cf025a025bb80c266e21.jpeg",
+                    "small": "https://media.kitsu.app/anime/48293/poster_image/small-90216b549f19f8372e5896387c77bc35.jpeg",
+                    "medium": "https://media.kitsu.app/anime/48293/poster_image/medium-adcb4e75bf475bfb6eb302eb21c1a4d0.jpeg",
+                    "original": "https://media.kitsu.app/anime/48293/poster_image/f0e5fd29688a7300e2589aa39c7dd75c.jpg",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 110,
+                                "height": 156
+                            },
+                            "large": {
+                                "width": 550,
+                                "height": 780
+                            },
+                            "small": {
+                                "width": 284,
+                                "height": 402
+                            },
+                            "medium": {
+                                "width": 390,
+                                "height": 554
+                            }
+                        }
+                    }
+                },
+                "coverImage": null,
+                "episodeCount": 24,
+                "episodeLength": 23,
+                "totalLength": null,
+                "youtubeVideoId": "ZrQoGBYHzIU",
+                "showType": "TV",
+                "nsfw": false
+            },
+            "relationships": {
+                "genres": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/genres",
+                        "related": "https://kitsu.io/api/edge/anime/48293/genres"
+                    }
+                },
+                "categories": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/categories",
+                        "related": "https://kitsu.io/api/edge/anime/48293/categories"
+                    }
+                },
+                "castings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/castings",
+                        "related": "https://kitsu.io/api/edge/anime/48293/castings"
+                    }
+                },
+                "installments": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/installments",
+                        "related": "https://kitsu.io/api/edge/anime/48293/installments"
+                    }
+                },
+                "mappings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/mappings",
+                        "related": "https://kitsu.io/api/edge/anime/48293/mappings"
+                    }
+                },
+                "reviews": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/reviews",
+                        "related": "https://kitsu.io/api/edge/anime/48293/reviews"
+                    }
+                },
+                "mediaRelationships": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/media-relationships",
+                        "related": "https://kitsu.io/api/edge/anime/48293/media-relationships"
+                    }
+                },
+                "characters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/characters",
+                        "related": "https://kitsu.io/api/edge/anime/48293/characters"
+                    }
+                },
+                "staff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/staff",
+                        "related": "https://kitsu.io/api/edge/anime/48293/staff"
+                    }
+                },
+                "productions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/productions",
+                        "related": "https://kitsu.io/api/edge/anime/48293/productions"
+                    }
+                },
+                "quotes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/quotes",
+                        "related": "https://kitsu.io/api/edge/anime/48293/quotes"
+                    }
+                },
+                "episodes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/episodes",
+                        "related": "https://kitsu.io/api/edge/anime/48293/episodes"
+                    }
+                },
+                "streamingLinks": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/streaming-links",
+                        "related": "https://kitsu.io/api/edge/anime/48293/streaming-links"
+                    }
+                },
+                "animeProductions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/anime-productions",
+                        "related": "https://kitsu.io/api/edge/anime/48293/anime-productions"
+                    }
+                },
+                "animeCharacters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/anime-characters",
+                        "related": "https://kitsu.io/api/edge/anime/48293/anime-characters"
+                    }
+                },
+                "animeStaff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/48293/relationships/anime-staff",
+                        "related": "https://kitsu.io/api/edge/anime/48293/anime-staff"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 49427,
+        "airingAt": 1788623700,
+        "next_episode": 9,
+        "data": {
+            "id": "49427",
+            "type": "anime",
+            "links": {
+                "self": "https://kitsu.io/api/edge/anime/49427"
+            },
+            "attributes": {
+                "createdAt": "2024-12-20T15:09:48.144Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
+                "slug": "kabushiki-gaisha-magi-lumiere-2nd-season",
+                "synopsis": "The second season of Kabushiki Gaisha Magi Lumiere.",
+                "description": "The second season of Kabushiki Gaisha Magi Lumiere.",
+                "coverImageTopOffset": 0,
+                "titles": {
+                    "en": "Magilumiere Magical Girls Inc. Season 2",
+                    "en_jp": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+                    "ja_jp": "\u682a\u5f0f\u4f1a\u793e\u30de\u30b8\u30eb\u30df\u30a8 \u7b2c2\u671f"
+                },
+                "canonicalTitle": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+                "abbreviatedTitles": [],
+                "averageRating": null,
+                "ratingFrequencies": {
+                    "8": "2",
+                    "10": "1",
+                    "12": "2",
+                    "13": "1",
+                    "14": "5",
+                    "15": "0",
+                    "16": "2",
+                    "18": "1",
+                    "20": "2"
+                },
+                "userCount": 253,
+                "favoritesCount": 0,
+                "startDate": "2026-07-05",
+                "endDate": null,
+                "nextRelease": null,
+                "popularityRank": 11362,
+                "ratingRank": null,
+                "ageRating": null,
+                "ageRatingGuide": null,
+                "subtype": "TV",
+                "status": "current",
+                "tba": null,
+                "posterImage": {
+                    "tiny": "https://media.kitsu.app/anime/49427/poster_image/tiny-87f6fdb9f3e78e3616ed8c03895f8a8d.jpeg",
+                    "large": "https://media.kitsu.app/anime/49427/poster_image/large-d4e6906719adbaee3b0348ae59a55afa.jpeg",
+                    "small": "https://media.kitsu.app/anime/49427/poster_image/small-759832292848d029285b53c3cc5b9bad.jpeg",
+                    "medium": "https://media.kitsu.app/anime/49427/poster_image/medium-cbad592a6826af91f77ff34ee4d12010.jpeg",
+                    "original": "https://media.kitsu.app/anime/49427/poster_image/6379ca4bbb017f9a5a68956653e36f4e.jpg",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 110,
+                                "height": 156
+                            },
+                            "large": {
+                                "width": 550,
+                                "height": 780
+                            },
+                            "small": {
+                                "width": 284,
+                                "height": 402
+                            },
+                            "medium": {
+                                "width": 390,
+                                "height": 554
+                            }
+                        }
+                    }
+                },
+                "coverImage": {
+                    "tiny": "https://media.kitsu.app/anime/49427/cover_image/tiny-e8f1ab161daa835770c3c9e6b0c81b80.jpeg",
+                    "large": "https://media.kitsu.app/anime/49427/cover_image/large-38426f766993aca42e321b7f6df675f1.jpeg",
+                    "small": "https://media.kitsu.app/anime/49427/cover_image/small-ed89536f85fdce128ffc7a6303b1adee.jpeg",
+                    "original": "https://media.kitsu.app/anime/49427/cover_image/d737ab5a8cc680fbebd2d4439a5e03b0.png",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 840,
+                                "height": 200
+                            },
+                            "large": {
+                                "width": 3360,
+                                "height": 800
+                            },
+                            "small": {
+                                "width": 1680,
+                                "height": 400
+                            }
+                        }
+                    }
+                },
+                "episodeCount": 12,
+                "episodeLength": 24,
+                "totalLength": null,
+                "youtubeVideoId": "3w7_piPtkNY",
+                "showType": "TV",
+                "nsfw": false
+            },
+            "relationships": {
+                "genres": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/genres",
+                        "related": "https://kitsu.io/api/edge/anime/49427/genres"
+                    }
+                },
+                "categories": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/categories",
+                        "related": "https://kitsu.io/api/edge/anime/49427/categories"
+                    }
+                },
+                "castings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/castings",
+                        "related": "https://kitsu.io/api/edge/anime/49427/castings"
+                    }
+                },
+                "installments": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/installments",
+                        "related": "https://kitsu.io/api/edge/anime/49427/installments"
+                    }
+                },
+                "mappings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/mappings",
+                        "related": "https://kitsu.io/api/edge/anime/49427/mappings"
+                    }
+                },
+                "reviews": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/reviews",
+                        "related": "https://kitsu.io/api/edge/anime/49427/reviews"
+                    }
+                },
+                "mediaRelationships": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/media-relationships",
+                        "related": "https://kitsu.io/api/edge/anime/49427/media-relationships"
+                    }
+                },
+                "characters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/characters",
+                        "related": "https://kitsu.io/api/edge/anime/49427/characters"
+                    }
+                },
+                "staff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/staff",
+                        "related": "https://kitsu.io/api/edge/anime/49427/staff"
+                    }
+                },
+                "productions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/productions",
+                        "related": "https://kitsu.io/api/edge/anime/49427/productions"
+                    }
+                },
+                "quotes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/quotes",
+                        "related": "https://kitsu.io/api/edge/anime/49427/quotes"
+                    }
+                },
+                "episodes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/episodes",
+                        "related": "https://kitsu.io/api/edge/anime/49427/episodes"
+                    }
+                },
+                "streamingLinks": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/streaming-links",
+                        "related": "https://kitsu.io/api/edge/anime/49427/streaming-links"
+                    }
+                },
+                "animeProductions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/anime-productions",
+                        "related": "https://kitsu.io/api/edge/anime/49427/anime-productions"
+                    }
+                },
+                "animeCharacters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/anime-characters",
+                        "related": "https://kitsu.io/api/edge/anime/49427/anime-characters"
+                    }
+                },
+                "animeStaff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49427/relationships/anime-staff",
+                        "related": "https://kitsu.io/api/edge/anime/49427/anime-staff"
+                    }
+                }
+            }
+        }
+    },
+    {
         "id": 49889,
-        "airingAt": 1787886000,
-        "next_episode": 4,
+        "airingAt": 1788490800,
+        "next_episode": 5,
         "data": {
             "id": "49889",
             "type": "anime",
@@ -8455,7 +8623,7 @@
             },
             "attributes": {
                 "createdAt": "2025-04-30T15:08:00.319Z",
-                "updatedAt": "2026-08-30T02:52:36.326Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
                 "slug": "shiguang-dailiren-iii",
                 "synopsis": "Third season of Shiguang Dailiren (Link Click).",
                 "description": "Third season of Shiguang Dailiren (Link Click).",
@@ -8479,12 +8647,12 @@
                     "19": "1",
                     "20": "5"
                 },
-                "userCount": 416,
+                "userCount": 420,
                 "favoritesCount": 1,
                 "startDate": "2026-08-14",
                 "endDate": null,
                 "nextRelease": null,
-                "popularityRank": 9556,
+                "popularityRank": 9513,
                 "ratingRank": null,
                 "ageRating": null,
                 "ageRatingGuide": null,
@@ -8621,6 +8789,221 @@
                     "links": {
                         "self": "https://kitsu.io/api/edge/anime/49889/relationships/anime-staff",
                         "related": "https://kitsu.io/api/edge/anime/49889/anime-staff"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": 49002,
+        "airingAt": 1788706800,
+        "next_episode": 11,
+        "data": {
+            "id": "49002",
+            "type": "anime",
+            "links": {
+                "self": "https://kitsu.io/api/edge/anime/49002"
+            },
+            "attributes": {
+                "createdAt": "2024-06-30T16:43:27.099Z",
+                "updatedAt": "2026-08-31T00:00:29.524Z",
+                "slug": "Mushoku-Tensei-Isekai-Ittara-Honki-Dasu-Season-3",
+                "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+                "description": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+                "coverImageTopOffset": 0,
+                "titles": {
+                    "en": "Mushoku Tensei: Jobless Reincarnation Season 3",
+                    "en_jp": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+                    "ja_jp": "\u7121\u8077\u8ee2\u751f \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e \u7b2c3\u671f"
+                },
+                "canonicalTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+                "abbreviatedTitles": [
+                    "Mushoku Tensei: Jobless Reincarnation Season 3",
+                    "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+                    "\u7121\u8077\u8ee2\u751f \u2162 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e"
+                ],
+                "averageRating": "84.18",
+                "ratingFrequencies": {
+                    "2": "4",
+                    "3": "0",
+                    "4": "0",
+                    "8": "6",
+                    "9": "2",
+                    "10": "1",
+                    "11": "0",
+                    "12": "5",
+                    "13": "1",
+                    "14": "22",
+                    "15": "6",
+                    "16": "28",
+                    "17": "11",
+                    "18": "51",
+                    "19": "6",
+                    "20": "86"
+                },
+                "userCount": 3204,
+                "favoritesCount": 21,
+                "startDate": "2026-07-04",
+                "endDate": null,
+                "nextRelease": null,
+                "popularityRank": 3701,
+                "ratingRank": 50,
+                "ageRating": "R",
+                "ageRatingGuide": "17+ (violence & profanity)",
+                "subtype": "TV",
+                "status": "current",
+                "tba": null,
+                "posterImage": {
+                    "tiny": "https://media.kitsu.app/anime/49002/poster_image/tiny-e7450d9e53ec41988b3850666f305d31.jpeg",
+                    "large": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
+                    "small": "https://media.kitsu.app/anime/49002/poster_image/small-617cb0afcc185c1181cfa5b571a2e9d8.jpeg",
+                    "medium": "https://media.kitsu.app/anime/49002/poster_image/medium-cc3eaf73a267ee6707cdf04dd100a23f.jpeg",
+                    "original": "https://media.kitsu.app/anime/49002/poster_image/6d09b03ffdd5c49802ad21c160b72cb2.jpg",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 110,
+                                "height": 156
+                            },
+                            "large": {
+                                "width": 550,
+                                "height": 780
+                            },
+                            "small": {
+                                "width": 284,
+                                "height": 402
+                            },
+                            "medium": {
+                                "width": 390,
+                                "height": 554
+                            }
+                        }
+                    }
+                },
+                "coverImage": {
+                    "tiny": "https://media.kitsu.app/anime/49002/cover_image/tiny-b009b428e521b59ae18225cea9bbcda7.jpeg",
+                    "large": "https://media.kitsu.app/anime/49002/cover_image/large-2b36b6f9472d3d6193f597b42f97f013.jpeg",
+                    "small": "https://media.kitsu.app/anime/49002/cover_image/small-af676ae66c1260cbc9c68f84beb9266a.jpeg",
+                    "original": "https://media.kitsu.app/anime/49002/cover_image/7f0419f55777921aeb8f140129ef28a6.jpg",
+                    "meta": {
+                        "dimensions": {
+                            "tiny": {
+                                "width": 840,
+                                "height": 200
+                            },
+                            "large": {
+                                "width": 3360,
+                                "height": 800
+                            },
+                            "small": {
+                                "width": 1680,
+                                "height": 400
+                            }
+                        }
+                    }
+                },
+                "episodeCount": 14,
+                "episodeLength": null,
+                "totalLength": 0,
+                "youtubeVideoId": "ODxfIvSgWuo",
+                "showType": "TV",
+                "nsfw": false
+            },
+            "relationships": {
+                "genres": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/genres",
+                        "related": "https://kitsu.io/api/edge/anime/49002/genres"
+                    }
+                },
+                "categories": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/categories",
+                        "related": "https://kitsu.io/api/edge/anime/49002/categories"
+                    }
+                },
+                "castings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/castings",
+                        "related": "https://kitsu.io/api/edge/anime/49002/castings"
+                    }
+                },
+                "installments": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/installments",
+                        "related": "https://kitsu.io/api/edge/anime/49002/installments"
+                    }
+                },
+                "mappings": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/mappings",
+                        "related": "https://kitsu.io/api/edge/anime/49002/mappings"
+                    }
+                },
+                "reviews": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/reviews",
+                        "related": "https://kitsu.io/api/edge/anime/49002/reviews"
+                    }
+                },
+                "mediaRelationships": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/media-relationships",
+                        "related": "https://kitsu.io/api/edge/anime/49002/media-relationships"
+                    }
+                },
+                "characters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/characters",
+                        "related": "https://kitsu.io/api/edge/anime/49002/characters"
+                    }
+                },
+                "staff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/staff",
+                        "related": "https://kitsu.io/api/edge/anime/49002/staff"
+                    }
+                },
+                "productions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/productions",
+                        "related": "https://kitsu.io/api/edge/anime/49002/productions"
+                    }
+                },
+                "quotes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/quotes",
+                        "related": "https://kitsu.io/api/edge/anime/49002/quotes"
+                    }
+                },
+                "episodes": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/episodes",
+                        "related": "https://kitsu.io/api/edge/anime/49002/episodes"
+                    }
+                },
+                "streamingLinks": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/streaming-links",
+                        "related": "https://kitsu.io/api/edge/anime/49002/streaming-links"
+                    }
+                },
+                "animeProductions": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-productions",
+                        "related": "https://kitsu.io/api/edge/anime/49002/anime-productions"
+                    }
+                },
+                "animeCharacters": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-characters",
+                        "related": "https://kitsu.io/api/edge/anime/49002/anime-characters"
+                    }
+                },
+                "animeStaff": {
+                    "links": {
+                        "self": "https://kitsu.io/api/edge/anime/49002/relationships/anime-staff",
+                        "related": "https://kitsu.io/api/edge/anime/49002/anime-staff"
                     }
                 }
             }
